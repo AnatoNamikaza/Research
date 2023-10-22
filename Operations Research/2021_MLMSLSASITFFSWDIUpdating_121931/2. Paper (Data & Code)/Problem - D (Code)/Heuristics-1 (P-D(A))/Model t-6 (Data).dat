@@ -1,0 +1,119 @@
+/*********************************************
+ * OPL 12.6.0.0 Data
+ * Author: Hakeem-ur-Rehman
+ * Creation Date: May 24, 2017 at 9:30:31 AM
+ *********************************************/
+FP = 2;
+RP = 40;
+J = 40;
+L = 6;
+T = 6;
+S = 18;
+allproductsonstage1 = {31,32,33,34,35,36,37,38,39,40};
+allproductsonstage2_1 = {15,16,17,18,19,20,21,22};
+allproductsonstage2_2 = {23,24,25,26,27,28,29,30};
+allproductsonstage3 = {7,8,9,10,11,12,13,14};
+allproductsonstage4 = {3,4,5,6};
+allproductsonstage5 = {1,2};
+family1stage1 = {31,32};
+family2stage1 = {33,34};
+family3stage1 = {35,36};
+family4stage1 = {37,38};
+family5stage1 = {39,40};
+family1stage2_1 = {20};
+family2stage2_1 = {22};
+family3stage2_1 = {15,16};
+family4stage2_1 = {17,18};
+family5stage2_1 = {19,20};
+family6stage2_1 = {21,22};
+family1stage2_2 = {23};
+family2stage2_2 = {27};
+family3stage2_2 = {29};
+family4stage2_2 = {23,24};
+family5stage2_2 = {25,26};
+family6stage2_2 = {27,28};
+family7stage2_2 = {29,30};
+family1stage3 = {7};
+family2stage3 = {8};
+family3stage3 = {9};
+family4stage3 = {10};
+family5stage3 = {11};
+family6stage3 = {12};
+family7stage3 = {13};
+family8stage3 = {14};
+family9stage3 = {7,8};
+family10stage3 = {9,10};
+family11stage3 = {11,12};
+family12stage3 = {13,14};
+family1stage4 = {3};
+family2stage4 = {4};
+family3stage4 = {5};
+family4stage4 = {6};
+family5stage4 = {3,4};
+family6stage4 = {5,6};
+family1stage5 = {1};
+family2stage5 = {2};
+microperiods1tomacroperiod = {1,2,3};
+microperiods2tomacroperiod = {4,5,6};
+microperiods3tomacroperiod = {7,8,9};
+microperiods4tomacroperiod = {10,11,12};
+microperiods5tomacroperiod = {13,14,15};
+microperiods6tomacroperiod = {16,17,18};
+
+min_lotsize = 1;
+production_cost = 1;
+production_time = 1;
+standby_cost = 1;
+BOM = 1;
+BigM = 10000;
+holdingcost = [19,21,7,11,9,11,3,3,5,5,5,3,5,5,1,1,1,1,1,3,1,3,3,1,1,1,3,1,3,1,1,1,1,1,1,1,1,1,1,1];
+
+//Product Demand - Series# 1
+primary_demand = [[20.0400,20.0004,20,20,20,20],
+		  [25.0625,25.0006,25,25,25,25]];			
+secondary_demand = [ 
+[20.0400,20.0004,20,20,20,20],	// equal to product-1
+[20.0400,20.0004,20,20,20,20],	// equal to product-1
+[25.0625,25.0006,25,25,25,25],	// equal to product-2
+[25.0625,25.0006,25,25,25,25],	// equal to product-2
+[20.0400,20.0004,20,20,20,20],	// equal to product-1
+[20.0400,20.0004,20,20,20,20],	// equal to product-1
+[20.0400,20.0004,20,20,20,20],	// equal to product-1
+[20.0400,20.0004,20,20,20,20],	// equal to product-1
+[25.0625,25.0006,25,25,25,25],	// equal to product-2
+[25.0625,25.0006,25,25,25,25],	// equal to product-2
+[25.0625,25.0006,25,25,25,25],	// equal to product-2
+[25.0625,25.0006,25,25,25,25],	// equal to product-2
+[20.0400,20.0004,20,20,20,20],	// equal to product-1
+[20.0400,20.0004,20,20,20,20],	// equal to product-1
+[20.0400,20.0004,20,20,20,20],	// equal to product-1
+[20.0400,20.0004,20,20,20,20],	// equal to product-1
+[20.0400,20.0004,20,20,20,20],	// equal to product-1
+[20.0400,20.0004,20,20,20,20],	// equal to product-1
+[20.0400,20.0004,20,20,20,20],	// equal to product-1
+[20.0400,20.0004,20,20,20,20],	// equal to product-1
+[25.0625,25.0006,25,25,25,25],	// equal to product-2
+[25.0625,25.0006,25,25,25,25],	// equal to product-2
+[25.0625,25.0006,25,25,25,25],	// equal to product-2
+[25.0625,25.0006,25,25,25,25],	// equal to product-2
+[25.0625,25.0006,25,25,25,25],	// equal to product-2
+[25.0625,25.0006,25,25,25,25],	// equal to product-2
+[25.0625,25.0006,25,25,25,25],	// equal to product-2
+[25.0625,25.0006,25,25,25,25],	// equal to product-2
+[20.0400,20.0004,20,20,20,20],	// equal to product-1
+[20.0400,20.0004,20,20,20,20],	// equal to product-1
+[20.0400,20.0004,20,20,20,20],	// equal to product-1
+[20.0400,20.0004,20,20,20,20],	// equal to product-1
+[25.0625,25.0006,25,25,25,25],	// equal to product-2
+[25.0625,25.0006,25,25,25,25],	// equal to product-2
+[25.0625,25.0006,25,25,25,25],	// equal to product-2
+[25.0625,25.0006,25,25,25,25],	// equal to product-2
+[25.0625,25.0006,25,25,25,25],	// equal to product-2
+[25.0625,25.0006,25,25,25,25]];	// equal to product-2			
+// Setup Profile - I
+setuptime = [25,25,25,25,25,25,25,25,25,25,20,20,20,20,20,20,20,20,20,20,15,15,15,15,15,15,15,15,15,15,10,10,10,10,10,10,10,10,10,10]; 
+setupcost = [10,12.5,10,10,12.5,12.5,10,10,10,10,12.5,12.5,12.5,12.5,10,10,10,10,10,10,10,10,12.5,12.5,12.5,12.5,12.5,12.5,12.5,12.5,10,10,10,10,12.5,12.5,12.5,12.5,12.5,12.5]; 
+
+// Capacity Utilization Profile - I (90%)
+productstagecapacity = [100.0000,200.0000,378.9474,326.3158,336.8421,347.3684];
+ 
