@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<description>Problem-D (Assembly)</description>
+	<configs>
+		<config category="opl" default="true" name="P-D (Assembly) Configuration">
+			<ref name="Problem-D (Assembly).mod" type="model">
+			</ref>
+			<ref name="Problem-D (Assembly).ops" type="setting">
+			</ref>
+			<ref name="Problem-D (Assembly).dat" type="data">
+			</ref>
+		</config>
+	</configs>
+	
+</project>
