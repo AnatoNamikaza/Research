@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<description>Heuristic-1 (Problem-B (Assembly))</description>
+	<configs>
+		<config category="opl" default="true" name="Configuration1">
+			<ref name="Flow Control (H-1)P-B (A).mod" type="model">
+			</ref>
+			<ref name="Flow Control (H-1) P-B (A).ops" type="setting">
+			</ref>
+		</config>
+	</configs>
+	
+</project>
