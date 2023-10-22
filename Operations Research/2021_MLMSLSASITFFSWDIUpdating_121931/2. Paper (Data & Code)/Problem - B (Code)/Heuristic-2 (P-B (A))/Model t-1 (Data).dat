@@ -1,0 +1,44 @@
+FP = 1;
+RP = 10;
+J = 10;
+L = 3;
+T = 1;
+S = 3;
+allproductsonstage1 = {5,6,7,8,9,10};
+allproductsonstage2 = {2,3,4};
+allproductsonstage3 = {1};
+family1stage1 = {5,6};
+family2stage1 = {7,8};
+family3stage1 = {9,10};
+family1stage2 = {2};
+family2stage2 = {3};
+family3stage2 = {4};
+family1stage3 = {1};
+microperiods1tomacroperiod = {1,2,3};
+
+min_lotsize = 1;
+production_cost = 1;
+production_time = 1;
+standby_cost = 1;
+BOM = 1;
+BigM = 10000;
+holdingcost = [10,3,3,3,1,1,1,1,1,1];
+
+// Product Demand - Series# 9
+primary_demand = [[296.0000]];			
+secondary_demand = [ 
+			[296.0000],
+			[296.0000],
+			[296.0000],
+			[296.0000],
+			[296.0000],
+			[296.0000],
+			[296.0000],
+			[296.0000],
+			[296.0000]];				
+// Setup Profile - II
+setuptime = [10,10,5,5,10,10,15,15,15,15]; 
+setupcost = [50,50,50,50,50,50,50,50,50,50];
+
+// Capacity Utilization Profile - V (50%, 70%, 90%)
+productstagecapacity = [220.0000,457.1429,755.5556];
