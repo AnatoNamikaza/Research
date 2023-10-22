@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<description>P-B (General)</description>
+	<configs>
+		<config category="opl" default="true" name="Configuration1">
+			<ref name="Problem-B (General).mod" type="model">
+			</ref>
+			<ref name="Problem-B (General).ops" type="setting">
+			</ref>
+			<ref name="Problem-B (General).dat" type="data">
+			</ref>
+		</config>
+	</configs>
+	
+</project>
