@@ -1,0 +1,48 @@
+//Test Instance-1: TAS1C1D1 (Test Assembly Setup-Profile_1 Capacity-Profile_1 Demand-Series_1)
+FP = 1;
+RP = 10;
+J = 10;
+L = 3;
+T = 4;
+S = 12;
+allproductsonstage1 = {5,6,7,8,9,10};
+allproductsonstage2 = {2,3,4};
+allproductsonstage3 = {1};
+family1stage1 = {5,6};
+family2stage1 = {7,8};
+family3stage1 = {9,10};
+family1stage2 = {2};
+family2stage2 = {3};
+family3stage2 = {4};
+family1stage3 = {1};
+microperiods1tomacroperiod = {1,2,3};
+microperiods2tomacroperiod = {4,5,6};
+microperiods3tomacroperiod = {7,8,9};
+microperiods4tomacroperiod = {10,11,12};
+
+min_lotsize = 1;
+production_cost = 1;
+production_time = 1;
+standby_cost = 1;
+BOM = 1;
+BigM = 10000;
+holdingcost = [10,3,3,3,1,1,1,1,1,1];
+
+// Product Demand - Series# 1
+primary_demand = [[101.0000,100.0100,100.0001,100.0000]];			
+secondary_demand = [ 
+			[101.0000,100.0100,100.0001,100.0000],
+			[101.0000,100.0100,100.0001,100.0000],
+			[101.0000,100.0100,100.0001,100.0000],
+			[101.0000,100.0100,100.0001,100.0000],
+			[101.0000,100.0100,100.0001,100.0000],
+			[101.0000,100.0100,100.0001,100.0000],
+			[101.0000,100.0100,100.0001,100.0000],
+			[101.0000,100.0100,100.0001,100.0000],
+			[101.0000,100.0100,100.0001,100.0000]];				
+// Setup Profile - I
+setuptime = [10,10,15,15,10,10,5,5,5,5]; 
+setupcost = [50,50,50,50,50,50,50,50,50,50]; 
+
+// Capacity Utilization Profile - I (90%)
+productstagecapacity = [122.2222,377.7778,711.1111];
