@@ -1,0 +1,37 @@
+
+
+
+
+library(ggplot2)
+d<-read.csv(file.choose(),header=TRUE)
+d
+
+ggplot(d, aes(x = Method, y = TC.BA)) +
+  theme_gray() +
+  geom_boxplot() +
+  labs(y = "Total Cost",
+       x = "Method")
+
+boxplot(TC.BA ~ Method, data = d, ylab="Total Cost", xlab="Method")
+#title(main="Problem Class B - Assembly Product Structure")
+options(scipen=999)
+kruskal.test(TC.BA ~ Method, data = d)
+
+'Dunn test for multiple comparisons'
+####################################
+'If the Kruskal–Wallis test is significant, a post-hoc analysis can be performed 
+to determine which levels of the independent variable differ from each other 
+level. Probably the most popular test for this is the Dunn test.'
+
+### Dunn test
+# Zar (2010) states that the Dunn test is appropriate for groups with unequal 
+# numbers of observations.
+library(FSA)
+PH_D1 = dunnTest(TC.BG ~ Method,data=d,method="bonferroni") # Can adjust p-values; 
+# See ?p.adjust for options
+PH_D1
+# Nemenyi test for multiple comparisons
+# Zar (2010) suggests that the Nemenyi test is not appropriate for groups with unequal 
+# numbers of observations.
+library(DescTools)
+PH_N1 = NemenyiTest(x = d$TC.BG, g = d$Method, dist="tukey")
