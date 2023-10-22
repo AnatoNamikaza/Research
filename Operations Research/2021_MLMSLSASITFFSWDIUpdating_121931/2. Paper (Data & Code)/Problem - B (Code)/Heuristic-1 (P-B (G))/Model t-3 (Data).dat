@@ -1,0 +1,50 @@
+FP = 4;
+RP = 10;
+J = 10;
+L = 3;
+T = 3;
+S = 9;
+allproductsonstage1 = {8,9,10};
+allproductsonstage2 = {5,6,7};
+allproductsonstage3 = {1,2,3,4};
+family1stage1 = {8,9};
+family2stage1 = {9,10};
+family3stage1 = {10};
+family1stage2 = {5};
+family2stage2 = {6};
+family3stage2 = {7};
+family1stage3 = {1,2};
+family2stage3 = {2,3};
+family3stage3 = {3,4};
+microperiods1tomacroperiod = {1,2,3};
+microperiods2tomacroperiod = {4,5,6};
+microperiods3tomacroperiod = {7,8,9};
+
+min_lotsize = 1;
+production_cost = 1;
+production_time = 1;
+standby_cost = 1;
+BOM = 1;
+BigM = 10000;
+holdingcost = [4,7,6,3,3,3,2,1,1,1];
+
+// Product Demand - Series# 9
+primary_demand = [[166.0400,73.8416,70.1537],		//Product-1
+			[47.6400,30.7056,30.0282],		//Products-2
+			[99.0000,51.9600,50.0784],		//Prodcut-3
+			[296.0000,107.8400,100.3136]];	//Product-4
+	
+secondary_demand = [ 
+		[213.6800,104.5472,100.1819],	//Product-5 (Sum of Product-1 & 2)
+		[146.6400,82.6656,80.1066],		//Product-6 (Sum of Prodcut-2 & 3)
+		[395.0000,159.8000,150.3920],	//Product-7 (Sum of Prodcut-3 & 4)
+		[213.6800,104.5472,100.1819],	//Product-8 (equal to Prodcut-5)
+		[360.3200,187.2128,180.2885],	//Product-9 (Sum of Prodcut-5 & 6)
+[541.6400,242.4656,230.4986]];	//Product-10 (Sum of Prodcut-6 & 7)
+					
+// Setup Profile - II
+setuptime = [10,10,5,5,10,10,15,15,15,15]; 
+setupcost = [35,15,25,50,50,40,75,50,90,115]; 
+
+// Capacity Utilization Profile - V (50%, 70%, 90%)
+productstagecapacity = [220.0000,457.1429,755.5556];
