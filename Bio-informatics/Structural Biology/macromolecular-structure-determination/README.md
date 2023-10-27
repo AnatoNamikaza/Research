@@ -24,7 +24,7 @@ Detailed examples and code snippets are available in the Jupyter notebooks withi
 
 1. Clone this repository to your local machine:
 
-git clone https://github.com/AnatoNamikaza/Research/Bio-informatics/Structural Biology/macromolecular-structure-determination.git
+git clone https://github.com/AnatoNamikaza/Research/Bio-informatics/Structural-Biology/macromolecular-structure-determination
 
 2. Install the required Python libraries (e.g., Biopython) as mentioned in the setup instructions in the notebooks.
 
