@@ -1,3 +1,4 @@
+import numpy as np
 import cv2
 
 # Load YOLO object detection model
