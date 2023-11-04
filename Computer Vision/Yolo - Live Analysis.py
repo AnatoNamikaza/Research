@@ -2,6 +2,7 @@ import cv2
 import numpy as np
 from IPython.display import display, Image
 from io import BytesIO
+import keyboard
 
 # Load YOLO object detection model
 net = cv2.dnn.readNet("yolov3.weights", "yolov3.cfg")
@@ -58,8 +59,7 @@ while True:
     display(Image(data=frame_png.tobytes()))
 
     # Capture keyboard input to exit the application
-    key = cv2.waitKey(1)
-    if key == ord('q'):
+    if keyboard.is_pressed('q'):
         break
 
 cap.release()
