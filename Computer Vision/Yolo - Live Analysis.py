@@ -1,7 +1,6 @@
 import cv2
 import numpy as np
-from IPython.display import display, Image
-from io import BytesIO
+import os
 import keyboard
 
 # Load YOLO object detection model
@@ -13,6 +12,12 @@ layer_names = net.getUnconnectedOutLayersNames()
 
 # Start capturing the live video feed from your computer's camera
 cap = cv2.VideoCapture(0)  # Use the appropriate video source (usually 0 for the default camera)
+
+# Create a directory to store the captured frames as images
+if not os.path.exists("captured_frames"):
+    os.mkdir("captured_frames")
+
+frame_count = 0
 
 while True:
     ret, frame = cap.read()
@@ -44,19 +49,14 @@ while True:
                 boxes.append([x, y, w, h])
 
     indexes = cv2.dnn.NMSBoxes(boxes, confidences, 0.5, 0.4)
-    font = cv2.FONT_HERSHEY_PLAIN
-    colors = np.random.uniform(0, 255, size=(len(classes), 3))
-    for i in range(len(boxes)):
-        if i in indexes:
-            x, y, w, h = boxes[i]
-            label = str(classes[class_ids[i]])
-            color = colors[class_ids[i]]
-            cv2.rectangle(frame, (x, y), (x + w, y + h), color, 2)
-            cv2.putText(frame, label, (x, y + 30), font, 3, color, 3)
 
-    # Display the frame in VS Code
-    _, frame_png = cv2.imencode('.png', frame)
-    display(Image(data=frame_png.tobytes()))
+    # Save each frame as an image
+    frame_count += 1
+    frame_filename = f"captured_frames/frame_{frame_count:04d}.jpg"
+    cv2.imwrite(frame_filename, frame)
+
+    # Print frame information
+    print(f"Saved frame {frame_count}")
 
     # Capture keyboard input to exit the application
     if keyboard.is_pressed('q'):
