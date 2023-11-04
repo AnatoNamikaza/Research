@@ -1,5 +1,8 @@
-import numpy as np
 import cv2
+import numpy as np
+from IPython.display import clear_output, display, Image
+from io import BytesIO
+import IPython
 
 # Load YOLO object detection model
 net = cv2.dnn.readNet("yolov3.weights", "yolov3.cfg")
@@ -51,10 +54,16 @@ while True:
             cv2.rectangle(frame, (x, y), (x + w, y + h), color, 2)
             cv2.putText(frame, label, (x, y + 30), font, 3, color, 3)
 
-    cv2.imshow("Object Detection", frame)
-
-    if cv2.waitKey(1) & 0xFF == ord('q'):
-        break
+    # Display the frame in the Jupyter Notebook
+    _, frame_png = cv2.imencode('.png', frame)
+    display(Image(data=frame_png.tobytes()))
+    
+    # Capture keyboard input to exit the application
+    if IPython.get_ipython().kernel is not None:
+        if IPython.get_ipython().kernel.input_available:
+            key = IPython.get_ipython().kernel._input_request()
+            if key == 'q':
+                break
 
 cap.release()
 cv2.destroyAllWindows()
