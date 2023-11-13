@@ -1,3 +1,1 @@
-This is a very secret message.
-
-Don't share it with anyone. 
+This is a very secret message. Don't share it with anyone. 
