@@ -1,2 +1,2 @@
 studied structure.
-moving to practical code design
+moving to practical code design.
