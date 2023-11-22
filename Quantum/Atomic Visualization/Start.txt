@@ -1,2 +1,3 @@
 studied structure.
 moving to practical code design.
+need more work in design mechanincs
