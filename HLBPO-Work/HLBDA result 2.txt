@@ -1,0 +1,84 @@
+
+
+ Best (HLBDA)= 0.108352
+ Accuracy: 89.5425 
+
+
+ Best (HLBDA)= 0.319451
+ Accuracy: 68.1304 %
+
+
+ Best (HLBDA)= 0.136110
+ Accuracy: 86.6667 %
+
+
+ Best (HLBDA)= 0.015851
+ Accuracy: 98.9039 %
+
+
+ Best (HLBDA)= 0.020429
+ Accuracy: 98.1385 %
+
+
+ Best (HLBDA)= 0.008714
+ Accuracy: 99.5238 %
+
+
+ Best (HLBDA)= 0.144260
+ Accuracy: 85.5405 %
+
+
+ Best (HLBDA)= 0.269858
+ Accuracy: 73.2466 %
+
+
+ Best (HLBDA)= 0.078783
+ Accuracy: 92.3095 %
+
+
+ Best (HLBDA)= 0.077979
+ Accuracy: 92.3016 %
+
+
+ Best (HLBDA)= 0.083715
+ Accuracy: 91.7222 %
+
+
+ Best (HLBDA)= 0.069278
+ Accuracy: 93.1508 %
+
+
+ Best (HLBDA)= 0.081239
+ Accuracy: 92.0317 %
+
+
+ Best (HLBDA)= 0.080435
+ Accuracy: 92.0238 %
+
+
+ Best (HLBDA)= 0.083558
+ Accuracy: 91.7381 %
+
+
+ Best (HLBDA)= 0.069572
+ Accuracy: 93.1508 %
+
+
+ Best (HLBDA)= 0.089646
+ Accuracy: 91.1825 %
+
+
+ Best (HLBDA)= 0.074856
+ Accuracy: 92.5873 %
+
+
+ Best (HLBDA)= 0.086465
+ Accuracy: 91.4444 %
+
+
+ Best (HLBDA)= 0.069493
+ Accuracy: 93.1587 %
+
+
+ Best (HLBDA)= 0.078058
+ Accuracy: 92.2937 %K>> 

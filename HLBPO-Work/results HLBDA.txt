@@ -1,0 +1,85 @@
+TOX-171.mat
+ Best (HLBDA)= 0.108352
+ Accuracy: 89.5425
+
+Arrhythmia.mat
+ Best (HLBDA)= 0.306490
+ Accuracy: 69.4686 %
+
+colon.mat
+ Best (HLBDA)= 0.114881
+ Accuracy: 88.8095 %
+
+dermatology.mat
+ Best (HLBDA)= 0.013321
+ Accuracy: 99.1892 %
+
+glass.mat
+ Best (HLBDA)= 0.012000
+ Accuracy: 99.0909 %
+
+hepatitis.mat
+ Best (HLBDA)= 0.008714
+ Accuracy: 99.5238 %
+
+horse-colic.mat
+ Best (HLBDA)= 0.144260
+ Accuracy: 85.5405 %
+
+ilpd.mat
+ Best (HLBDA)= 0.269858
+ Accuracy: 73.2466 %
+
+ionosphere.mat
+ Best (HLBDA)= 0.075229
+ Accuracy: 92.5794 %
+
+leukemia.mat
+ Best (HLBDA)= 0.071949
+ Accuracy: 92.881 %
+
+libras-movement.mat
+ Best (HLBDA)= 0.074778
+ Accuracy: 92.5952 %
+
+lsvt.mat
+ Best (HLBDA)= 0.080435
+ Accuracy: 92.0238 %
+
+lung_discrete.mat
+ Best (HLBDA)= 0.084382
+ Accuracy: 91.7143 %
+
+lympho.mat
+ Best (HLBDA)= 0.087347
+ Accuracy: 91.4444 %
+
+musk1.mat
+ Best (HLBDA)= 0.083852
+ Accuracy: 91.7381 %
+
+primary-tumor.mat
+ Best (HLBDA)= 0.095833
+ Accuracy: 90.5873 %
+
+SCADI.mat
+ Best (HLBDA)= 0.084440
+ Accuracy: 91.7381 %
+
+seeds.mat
+ Best (HLBDA)= 0.077665
+ Accuracy: 92.3333 %
+
+soybean.mat
+ Best (HLBDA)= 0.082911
+ Accuracy: 91.7143 %
+
+spect-heart.mat
+ Best (HLBDA)= 0.078332
+ Accuracy: 92.3254 %
+
+zoo.mat
+ Best (HLBDA)= 0.086817
+ Accuracy: 91.4683 %
+
+'' must discuss

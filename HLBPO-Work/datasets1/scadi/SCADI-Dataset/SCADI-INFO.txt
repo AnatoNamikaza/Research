@@ -1,0 +1,19 @@
+Data Set Information:
+
+This dataset contains 206 attributes of 70 children with physical and motor disability based on ICF-CY. 
+In particular, the SCADI dataset is the only one that has been used by ML researchers for self-care problems classification based on ICF-CY to this date. 
+The "Class" field refers to the presence of the self-care problems of the children with physical and motor disabilities.The classes are determined by occupational therapists.
+The names and social security numbers of the children were recently removed from the dataset. 
+
+Two files have been "processed", SCADI.arff for using in WEKA and SCADI.CSV for using in MATLAB and similar tools. 
+
+
+-------------------------
+
+Attribute documentation: 
+
+
+1     gender: gender (1 = male; 0 = female)
+2     age: age in years 
+3-205 self-care activities based on ICF-CY (1 = The case has this feature; 0 = otherwise) 
+206   Classes ( class1 = Caring for body parts problem; class2 = Toileting problem; class3 = Dressing problem; class4 = Washing oneself and Caring for body parts and Dressing problem; class5 = Washing oneself, Caring for body parts, Toileting, and Dressing problem; class6 = Eating, Drinking, Washing oneself, Caring for body parts, toileting,Dressing, Looking after one’s health and Looking  after one’s safety problem; class7 = No Problem; ) 

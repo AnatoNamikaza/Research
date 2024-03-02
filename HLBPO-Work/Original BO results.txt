@@ -1,0 +1,47 @@
+Fn = 1
+Best, Worst, Median, Mean, and Std. are as: 0  0  0  0  0
+Fn = 2
+Best, Worst, Median, Mean, and Std. are as: 2.5645e-189  4.2861e-181  1.3106e-185  5.1747e-182  0
+Fn = 3
+Best, Worst, Median, Mean, and Std. are as: 2.4531e-315  7.8685e-297  4.255e-306  8.8483e-298  0
+Fn = 4
+Best, Worst, Median, Mean, and Std. are as: 8.4094e-171  1.365e-160  2.1096e-164  1.3755e-161  4.3101e-161
+Fn = 5
+Best, Worst, Median, Mean, and Std. are as: 0  0  0  0  0
+Fn = 6
+Best, Worst, Median, Mean, and Std. are as: 0  0  0  0  0
+Fn = 7
+Best, Worst, Median, Mean, and Std. are as: 8.7518e-05  0.00062175  0.00025374  0.0002728  0.0001508
+Fn = 8
+Best, Worst, Median, Mean, and Std. are as: -12569.4866  -12569.4866  -12569.4866  -12569.4866  1.9174e-12
+Fn = 9
+Best, Worst, Median, Mean, and Std. are as: 0  29.8488  0  2.9849  9.439
+Fn = 10
+Best, Worst, Median, Mean, and Std. are as: 4.4409e-16  4.4409e-16  4.4409e-16  4.4409e-16  0
+Fn = 11
+Best, Worst, Median, Mean, and Std. are as: 0  0  0  0  0
+Fn = 12
+Best, Worst, Median, Mean, and Std. are as: 1.5705e-32  1.5705e-32  1.5705e-32  1.5705e-32  2.885e-48
+Fn = 13
+Best, Worst, Median, Mean, and Std. are as: 1.3498e-32  1.3498e-32  1.3498e-32  1.3498e-32  2.885e-48
+Fn = 14
+Best, Worst, Median, Mean, and Std. are as: 0.998  0.998  0.998  0.998  0
+Fn = 15
+Best, Worst, Median, Mean, and Std. are as: 0.00030749  0.00030749  0.00030749  0.00030749  3.8477e-10
+Fn = 16
+Best, Worst, Median, Mean, and Std. are as: -1.0316  -1.0316  -1.0316  -1.0316  7.4015e-17
+Fn = 17
+Best, Worst, Median, Mean, and Std. are as: 0.39789  0.39789  0.39789  0.39789  0
+Fn = 18
+Best, Worst, Median, Mean, and Std. are as: 3  30  6.1559  11.4803  11.0213
+Fn = 19
+Best, Worst, Median, Mean, and Std. are as: -3.8628  -3.8628  -3.8628  -3.8628  9.0043e-16
+Fn = 20
+Best, Worst, Median, Mean, and Std. are as: -3.322  -3.2031  -3.322  -3.2982  0.05013
+Fn = 21
+Best, Worst, Median, Mean, and Std. are as: -10.1532  -10.1532  -10.1532  -10.1532  8.3738e-16
+Fn = 22
+Best, Worst, Median, Mean, and Std. are as: -10.4029  -10.4029  -10.4029  -10.4029  1.8724e-15
+Fn = 23
+Best, Worst, Median, Mean, and Std. are as: -10.5364  -10.5364  -10.5364  -10.5364  1.5666e-15
+Total execution time for all functions: 210.3929 seconds
