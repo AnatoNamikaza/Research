@@ -17,39 +17,28 @@
 %   DOI: https://doi.org/10.1016/j.knosys.2020.105709
 %____________________________________________________________________________________
 % 
-function [Leader_score,Leader_pos,Convergence_curve]=HLBPO(SearchAgents_no,parties,areas,lambda_max,Max_iter,pl,gl,X,Y,O)
+function [Leader_score,Leader_pos,Convergence_curve]=BPO(Positions,parties,areas,lambda_max,Max_iter,pl,gl,X,Y,O)
 
 dim = size(X, 2); % Dimensionality of the problem (number of features)
 
 % initialize position vector and score for the leader
+% Store the position and fitness of global best solution
+% This would be the leader with the minimum fitness
 Leader_pos = zeros(1, dim);
 Leader_score = inf;  %change this to -inf for maximization problems
+
 Convergence_curve=zeros(1,Max_iter);
 
 %Initialize the positions of search agents
-Positions=initialization(parties,areas,dim);
-fitness=zeros(parties,areas);
-
-% Compute set of party leaders P* using Eq. (12)
-Party_Leaders = 0;
-
-% Compute set of constituency winners C* using Eq. (11)
-Constituency_Winners = 0;
-
-% Store the position and fitness of global best solution
-% This would be the leader with the minimum fitness
-Global_Best_Position = 0;
-Global_Best_Fitness = 0;
+Positions = initialization(parties,areas,dim);
 
 %Running phases for initializations
 Election;   %Run election phase
 
-%GovernmentFormation;
-
-t=1;% Loop counter
+t = 1; % Loop counter
 lambda = lambda_max;
 
-while t < Max_iter
+while t <= Max_iter
     prevPositions = Positions;
     prevFitness = Fitness;
 
@@ -62,9 +51,9 @@ while t < Max_iter
     HLPUS;
 
     lambda = lambda - lambda_max/Max_iter;
-    t=t+1;
     Convergence_curve(t)=Leader_score;
-
     %printing best score
-    %[t Leader_score];
+    fprintf('\nIteration %d Best (HLBPO)= %f',t - 1,Convergence_curve(t));
+
+    t=t+1;    
 end

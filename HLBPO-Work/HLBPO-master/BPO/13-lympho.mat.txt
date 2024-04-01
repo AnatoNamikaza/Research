@@ -1,0 +1,1200 @@
+Run 1
+BPO Best Score: 0.020911
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.435614
+BPO Best Pos: 0.602450
+BPO Best Pos: 0.773976
+BPO Best Pos: 0.094875
+BPO Best Pos: 0.267983
+BPO Best Pos: 1.217566
+BPO Best Pos: 1.071957
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.778080
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.061633
+BPO Best Pos: -1.200204
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.127328
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.397484
+BPO Best Pos: -0.034542
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Run 2
+BPO Best Score: 0.015422
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.438341
+BPO Best Pos: 1.788209
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.475357
+BPO Best Pos: 1.545686
+BPO Best Pos: -0.873577
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.171280
+BPO Best Pos: -1.639994
+BPO Best Pos: -0.587614
+BPO Best Pos: 1.774245
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.525569
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.510228
+BPO Best Pos: 0.000000
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Run 3
+BPO Best Score: 0.020911
+BPO Best Pos: 0.622335
+BPO Best Pos: -0.719227
+BPO Best Pos: -0.799377
+BPO Best Pos: 0.835507
+BPO Best Pos: 1.875801
+BPO Best Pos: 1.910082
+BPO Best Pos: -0.345067
+BPO Best Pos: 1.057560
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.836745
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.139961
+BPO Best Pos: -0.258513
+BPO Best Pos: 1.727741
+BPO Best Pos: -1.309260
+BPO Best Pos: 2.189090
+BPO Best Pos: 0.000000
+Curve: 0.022022
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Run 4
+BPO Best Score: 0.020911
+BPO Best Pos: 2.519479
+BPO Best Pos: -0.660412
+BPO Best Pos: 0.667748
+BPO Best Pos: 1.178113
+BPO Best Pos: 2.296866
+BPO Best Pos: 0.863824
+BPO Best Pos: 2.262621
+BPO Best Pos: 2.605597
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.650243
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.192097
+BPO Best Pos: 0.418920
+BPO Best Pos: 0.408648
+BPO Best Pos: 0.151851
+BPO Best Pos: -0.257145
+BPO Best Pos: -0.377883
+BPO Best Pos: 2.905990
+Curve: 0.021467
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Curve: 0.020911
+Run 5
+BPO Best Score: 0.014311
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.979315
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.096764
+BPO Best Pos: -0.402522
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.556827
+BPO Best Pos: -1.078312
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.065577
+BPO Best Pos: -0.120028
+BPO Best Pos: 1.625221
+BPO Best Pos: -1.332841
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.886333
+BPO Best Pos: 1.171854
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.486351
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Run 6
+BPO Best Score: 0.015422
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.629673
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.542689
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.396476
+BPO Best Pos: 1.004644
+BPO Best Pos: 1.407382
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.012775
+BPO Best Pos: 1.475263
+BPO Best Pos: 0.102609
+BPO Best Pos: -0.266285
+BPO Best Pos: 0.841087
+BPO Best Pos: -0.330077
+BPO Best Pos: 1.699020
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Curve: 0.015422
+Run 7
+BPO Best Score: 0.014311
+BPO Best Pos: 0.013150
+BPO Best Pos: -0.119668
+BPO Best Pos: 0.986884
+BPO Best Pos: -0.455795
+BPO Best Pos: -0.174469
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.375291
+BPO Best Pos: -0.471538
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.850423
+BPO Best Pos: 0.031210
+BPO Best Pos: -0.297550
+BPO Best Pos: 0.631347
+BPO Best Pos: -0.751566
+BPO Best Pos: 1.370683
+BPO Best Pos: 1.512939
+BPO Best Pos: 0.825755
+BPO Best Pos: 2.167336
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Curve: 0.014311
+Run 8
+BPO Best Score: 0.014867
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.855684
+BPO Best Pos: -0.769802
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.022837
+BPO Best Pos: 0.537738
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.865981
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.610202
+BPO Best Pos: 0.635828
+BPO Best Pos: 0.214206
+BPO Best Pos: 0.011412
+BPO Best Pos: -0.783568
+BPO Best Pos: 0.976970
+BPO Best Pos: 0.055387
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Run 9
+BPO Best Score: 0.014867
+BPO Best Pos: -0.762186
+BPO Best Pos: 1.629306
+BPO Best Pos: 1.525467
+BPO Best Pos: -0.339661
+BPO Best Pos: -0.697925
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.991395
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.058585
+BPO Best Pos: -0.128914
+BPO Best Pos: 0.182488
+BPO Best Pos: -0.200537
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.172186
+BPO Best Pos: 1.760656
+BPO Best Pos: 0.000000
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Curve: 0.014867
+Run 10
+BPO Best Score: 0.015978
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.000000
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.017644
+Curve: 0.015978
+Curve: 0.015978
+Curve: 0.015978
+Curve: 0.015978
+Curve: 0.015978
+Curve: 0.015978
+Curve: 0.015978
+Curve: 0.015978
+Curve: 0.015978
+Curve: 0.015978
+Curve: 0.015978
+Curve: 0.015978
+Curve: 0.015978
+Curve: 0.015978
+Curve: 0.015978
+Curve: 0.015978
+Curve: 0.015978
+Curve: 0.015978
+Curve: 0.015978
+Curve: 0.015978
+Curve: 0.015978
+Curve: 0.015978
+Curve: 0.015978
+Curve: 0.015978
+Curve: 0.015978
+Curve: 0.015978
+Curve: 0.015978
+Curve: 0.015978

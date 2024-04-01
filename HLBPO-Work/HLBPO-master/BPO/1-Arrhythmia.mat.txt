@@ -1,0 +1,3810 @@
+Run 1
+BPO Best Score: 0.349404
+BPO Best Pos: -1.026122
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.288442
+BPO Best Pos: -0.521119
+BPO Best Pos: 1.396074
+BPO Best Pos: 0.967156
+BPO Best Pos: 1.973095
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.224833
+BPO Best Pos: 1.530400
+BPO Best Pos: 1.201816
+BPO Best Pos: 0.332264
+BPO Best Pos: -0.181811
+BPO Best Pos: 1.068571
+BPO Best Pos: 1.495095
+BPO Best Pos: 0.898873
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.190545
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.714706
+BPO Best Pos: 0.213712
+BPO Best Pos: 0.920767
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.966583
+BPO Best Pos: 1.246707
+BPO Best Pos: 1.184544
+BPO Best Pos: -0.334586
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.570996
+BPO Best Pos: -0.232812
+BPO Best Pos: 1.273093
+BPO Best Pos: 1.463687
+BPO Best Pos: 1.513932
+BPO Best Pos: 1.270124
+BPO Best Pos: 0.306364
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.434746
+BPO Best Pos: -0.688909
+BPO Best Pos: 0.357681
+BPO Best Pos: 1.796368
+BPO Best Pos: 1.926531
+BPO Best Pos: 1.996388
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.709457
+BPO Best Pos: 0.960880
+BPO Best Pos: -0.338693
+BPO Best Pos: 1.149904
+BPO Best Pos: -0.174650
+BPO Best Pos: -0.859257
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.968502
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.126428
+BPO Best Pos: 1.719194
+BPO Best Pos: 0.713240
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.823839
+BPO Best Pos: 1.152502
+BPO Best Pos: -0.641597
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.130971
+BPO Best Pos: -0.034294
+BPO Best Pos: 1.382871
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.970372
+BPO Best Pos: -0.620770
+BPO Best Pos: -0.399722
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.841806
+BPO Best Pos: -0.830390
+BPO Best Pos: 1.511965
+BPO Best Pos: 0.385696
+BPO Best Pos: -0.552601
+BPO Best Pos: 0.882445
+BPO Best Pos: 1.503499
+BPO Best Pos: 1.452585
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.959755
+BPO Best Pos: 1.531348
+BPO Best Pos: 0.874378
+BPO Best Pos: -0.052264
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.909701
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.082193
+BPO Best Pos: -0.321553
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.676562
+BPO Best Pos: 0.735651
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.979725
+BPO Best Pos: 1.200216
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.644729
+BPO Best Pos: 1.022094
+BPO Best Pos: 0.908747
+BPO Best Pos: -0.653561
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.625606
+BPO Best Pos: -0.824670
+BPO Best Pos: 2.052104
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.872702
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.244162
+BPO Best Pos: -0.781619
+BPO Best Pos: -0.459617
+BPO Best Pos: 1.525417
+BPO Best Pos: 1.983883
+BPO Best Pos: -0.521199
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.565246
+BPO Best Pos: 0.529435
+BPO Best Pos: -0.776155
+BPO Best Pos: 0.296439
+BPO Best Pos: -0.753334
+BPO Best Pos: -1.428347
+BPO Best Pos: 0.164761
+BPO Best Pos: 0.989484
+BPO Best Pos: 1.085912
+BPO Best Pos: 1.119621
+BPO Best Pos: 0.196451
+BPO Best Pos: -0.500779
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.252290
+BPO Best Pos: 0.266099
+BPO Best Pos: 0.592746
+BPO Best Pos: 1.465839
+BPO Best Pos: 2.778336
+BPO Best Pos: -0.704470
+BPO Best Pos: 0.216735
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.934539
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.175496
+BPO Best Pos: 1.070054
+BPO Best Pos: -0.951486
+BPO Best Pos: -0.885163
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.385673
+BPO Best Pos: -0.246312
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.794490
+BPO Best Pos: -0.418355
+BPO Best Pos: 0.992499
+BPO Best Pos: -0.883406
+BPO Best Pos: 0.948896
+BPO Best Pos: 0.828038
+BPO Best Pos: -0.689118
+BPO Best Pos: 1.000000
+BPO Best Pos: -1.227126
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.959971
+BPO Best Pos: -0.221512
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.620502
+BPO Best Pos: 1.216719
+BPO Best Pos: -0.854515
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.825632
+BPO Best Pos: 0.076861
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.243866
+BPO Best Pos: 1.106745
+BPO Best Pos: 1.008282
+BPO Best Pos: -0.620670
+BPO Best Pos: 0.520680
+BPO Best Pos: 1.920182
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.459888
+BPO Best Pos: -0.984912
+BPO Best Pos: -0.474107
+BPO Best Pos: -0.594624
+BPO Best Pos: 1.010006
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.215687
+BPO Best Pos: -0.072719
+BPO Best Pos: 0.449921
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.938724
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.102981
+BPO Best Pos: -0.962050
+BPO Best Pos: -0.001939
+BPO Best Pos: 1.493449
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.508867
+BPO Best Pos: 1.563239
+BPO Best Pos: -1.409106
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.673072
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.585320
+BPO Best Pos: -0.408405
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.311740
+BPO Best Pos: -0.096201
+BPO Best Pos: 1.423858
+BPO Best Pos: 0.743506
+BPO Best Pos: -0.881033
+BPO Best Pos: 0.812431
+BPO Best Pos: -0.790790
+BPO Best Pos: 0.733187
+BPO Best Pos: 1.032730
+BPO Best Pos: 0.000433
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.581617
+BPO Best Pos: 0.616463
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.938616
+BPO Best Pos: -0.857159
+BPO Best Pos: 2.354750
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.237860
+BPO Best Pos: -0.620955
+BPO Best Pos: 1.365930
+BPO Best Pos: 0.779627
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.237434
+BPO Best Pos: 0.687355
+BPO Best Pos: 0.652077
+BPO Best Pos: -0.042765
+BPO Best Pos: -0.153809
+BPO Best Pos: -0.305058
+BPO Best Pos: 1.409198
+BPO Best Pos: 0.334183
+BPO Best Pos: 1.799890
+BPO Best Pos: -0.911561
+BPO Best Pos: -0.125680
+BPO Best Pos: 2.496574
+BPO Best Pos: -0.992136
+BPO Best Pos: 0.657566
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.052196
+BPO Best Pos: 1.443730
+BPO Best Pos: -0.300185
+BPO Best Pos: 2.119891
+BPO Best Pos: -0.734503
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.470231
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.761383
+BPO Best Pos: 0.250458
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.707841
+BPO Best Pos: -0.244062
+BPO Best Pos: 1.908271
+BPO Best Pos: 1.000000
+BPO Best Pos: 2.113725
+BPO Best Pos: 1.481672
+BPO Best Pos: 1.816075
+BPO Best Pos: 1.890003
+BPO Best Pos: 0.962909
+BPO Best Pos: 1.514637
+BPO Best Pos: 1.000000
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Curve: 0.349404
+Run 2
+BPO Best Score: 0.351796
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.519407
+BPO Best Pos: -0.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: -5.921657
+BPO Best Pos: 0.468489
+BPO Best Pos: -0.907236
+BPO Best Pos: -0.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.061978
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: 2.225785
+BPO Best Pos: -0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: -0.193062
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.663624
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.842032
+BPO Best Pos: -1.026405
+BPO Best Pos: 0.342352
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: -0.478179
+BPO Best Pos: -0.894918
+BPO Best Pos: 2.644047
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.182730
+BPO Best Pos: -0.415089
+BPO Best Pos: -0.000000
+BPO Best Pos: 1.644119
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.290248
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.990585
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.153988
+BPO Best Pos: -0.000000
+BPO Best Pos: 2.209767
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.178185
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.288256
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: 1.612651
+BPO Best Pos: 0.731110
+BPO Best Pos: 1.313699
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.925722
+BPO Best Pos: 0.888318
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: 1.048471
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.317562
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: 1.126844
+BPO Best Pos: -0.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: -0.906192
+BPO Best Pos: 0.913247
+BPO Best Pos: 0.080981
+BPO Best Pos: 0.777621
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.463807
+BPO Best Pos: -0.000000
+BPO Best Pos: 1.379830
+BPO Best Pos: -1.357563
+BPO Best Pos: 1.390964
+BPO Best Pos: 0.490659
+BPO Best Pos: 1.482743
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: -0.199264
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.258186
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.568280
+BPO Best Pos: 0.610230
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.097491
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.200272
+BPO Best Pos: 0.988472
+BPO Best Pos: 1.029334
+BPO Best Pos: 0.450090
+BPO Best Pos: -0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.055431
+BPO Best Pos: 0.140103
+BPO Best Pos: -0.065593
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.062478
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.926522
+BPO Best Pos: -0.627782
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.867481
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.652818
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.252716
+BPO Best Pos: 2.115266
+BPO Best Pos: -0.064011
+BPO Best Pos: -0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.060852
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.916272
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: 1.201820
+BPO Best Pos: -0.396428
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.624038
+BPO Best Pos: -1.353862
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.369467
+BPO Best Pos: 0.463272
+BPO Best Pos: -0.208391
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.403583
+BPO Best Pos: -0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: -2.026375
+BPO Best Pos: -3.669738
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: -2.714557
+BPO Best Pos: -0.069906
+BPO Best Pos: 1.998281
+BPO Best Pos: 0.995664
+BPO Best Pos: -0.136644
+BPO Best Pos: 5.243586
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.815366
+BPO Best Pos: 1.764459
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 10.664028
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.776778
+BPO Best Pos: -0.133025
+BPO Best Pos: -0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.248143
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.751016
+BPO Best Pos: 8.520083
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.356123
+BPO Best Pos: 0.057385
+BPO Best Pos: -0.000000
+BPO Best Pos: -0.178347
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.398272
+BPO Best Pos: 1.070484
+BPO Best Pos: 1.114538
+BPO Best Pos: 0.136776
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.786039
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.169172
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.577477
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.807010
+BPO Best Pos: 2.534733
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.238737
+BPO Best Pos: 0.444290
+BPO Best Pos: -0.000000
+BPO Best Pos: -1.435488
+BPO Best Pos: 0.000000
+BPO Best Pos: -1.177318
+BPO Best Pos: 1.389293
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.973915
+BPO Best Pos: -0.051383
+BPO Best Pos: -3.144278
+BPO Best Pos: 2.413228
+BPO Best Pos: 1.377775
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.531663
+BPO Best Pos: -0.738620
+BPO Best Pos: 2.194384
+BPO Best Pos: 0.542740
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: -0.289647
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.398038
+BPO Best Pos: -0.483911
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 6.572934
+BPO Best Pos: 0.433594
+BPO Best Pos: 0.735713
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.603413
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.066126
+BPO Best Pos: 1.615951
+BPO Best Pos: 1.077310
+BPO Best Pos: -0.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.566886
+BPO Best Pos: 0.796730
+BPO Best Pos: -0.253871
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.420379
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.076117
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.214999
+BPO Best Pos: 0.664695
+BPO Best Pos: 1.082034
+BPO Best Pos: 0.073886
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.057768
+BPO Best Pos: 0.889943
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: -0.624703
+BPO Best Pos: 1.259269
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352919
+Curve: 0.352740
+Curve: 0.352740
+Curve: 0.352740
+Curve: 0.352740
+Curve: 0.352740
+Curve: 0.352740
+Curve: 0.352740
+Curve: 0.352740
+Curve: 0.352740
+Curve: 0.352740
+Curve: 0.352740
+Curve: 0.352740
+Curve: 0.352740
+Curve: 0.352740
+Curve: 0.352740
+Curve: 0.352740
+Curve: 0.352632
+Curve: 0.352632
+Curve: 0.352632
+Curve: 0.352632
+Curve: 0.352632
+Curve: 0.352632
+Curve: 0.352632
+Curve: 0.352632
+Curve: 0.352632
+Curve: 0.352632
+Curve: 0.352632
+Curve: 0.352632
+Curve: 0.352632
+Curve: 0.352632
+Curve: 0.352632
+Curve: 0.352632
+Curve: 0.352632
+Curve: 0.352632
+Curve: 0.352632
+Curve: 0.352632
+Curve: 0.352632
+Curve: 0.351832
+Curve: 0.351832
+Curve: 0.351832
+Curve: 0.351832
+Curve: 0.351796
+Curve: 0.351796
+Curve: 0.351796
+Curve: 0.351796
+Curve: 0.351796
+Curve: 0.351796
+Run 3
+BPO Best Score: 0.353183
+BPO Best Pos: -0.035347
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.687698
+BPO Best Pos: -0.325734
+BPO Best Pos: 2.584000
+BPO Best Pos: 9.677219
+BPO Best Pos: 0.747110
+BPO Best Pos: -3.282205
+BPO Best Pos: -2.962481
+BPO Best Pos: -0.469623
+BPO Best Pos: 0.250155
+BPO Best Pos: 0.816572
+BPO Best Pos: 2.258393
+BPO Best Pos: 0.687673
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: -1.509116
+BPO Best Pos: 1.680230
+BPO Best Pos: -0.304422
+BPO Best Pos: -0.949088
+BPO Best Pos: 0.612915
+BPO Best Pos: 0.082533
+BPO Best Pos: -0.482529
+BPO Best Pos: 1.002327
+BPO Best Pos: 0.132239
+BPO Best Pos: 3.209391
+BPO Best Pos: -0.118514
+BPO Best Pos: -1.028223
+BPO Best Pos: 0.849941
+BPO Best Pos: -1.460830
+BPO Best Pos: -0.327862
+BPO Best Pos: -0.053595
+BPO Best Pos: 4.632994
+BPO Best Pos: 0.334675
+BPO Best Pos: -0.694301
+BPO Best Pos: 1.609672
+BPO Best Pos: -0.796371
+BPO Best Pos: 1.815333
+BPO Best Pos: -0.355092
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.332725
+BPO Best Pos: 0.917058
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.307225
+BPO Best Pos: 0.753777
+BPO Best Pos: -0.083408
+BPO Best Pos: 2.211865
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.030609
+BPO Best Pos: -1.015369
+BPO Best Pos: 0.917614
+BPO Best Pos: 1.083432
+BPO Best Pos: 0.721190
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 2.332300
+BPO Best Pos: 0.270657
+BPO Best Pos: 1.356519
+BPO Best Pos: -0.411646
+BPO Best Pos: -0.982173
+BPO Best Pos: 0.174472
+BPO Best Pos: -3.397313
+BPO Best Pos: 0.985125
+BPO Best Pos: -0.878692
+BPO Best Pos: 2.089172
+BPO Best Pos: 0.917647
+BPO Best Pos: 2.002892
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.020876
+BPO Best Pos: 0.491282
+BPO Best Pos: 3.689952
+BPO Best Pos: -0.018097
+BPO Best Pos: 1.549847
+BPO Best Pos: 0.536215
+BPO Best Pos: -3.547428
+BPO Best Pos: 1.120218
+BPO Best Pos: 1.231563
+BPO Best Pos: 3.904831
+BPO Best Pos: 1.193299
+BPO Best Pos: -1.164963
+BPO Best Pos: 0.367058
+BPO Best Pos: -0.435487
+BPO Best Pos: -0.316385
+BPO Best Pos: 0.656567
+BPO Best Pos: 2.292375
+BPO Best Pos: 0.000000
+BPO Best Pos: 2.686352
+BPO Best Pos: -1.728669
+BPO Best Pos: 1.000000
+BPO Best Pos: 2.177466
+BPO Best Pos: 1.750289
+BPO Best Pos: 0.215326
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.025429
+BPO Best Pos: -2.025102
+BPO Best Pos: 1.193661
+BPO Best Pos: 5.422148
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.079340
+BPO Best Pos: -0.992593
+BPO Best Pos: 0.464189
+BPO Best Pos: -0.143066
+BPO Best Pos: 1.013390
+BPO Best Pos: 0.836178
+BPO Best Pos: 1.050251
+BPO Best Pos: -0.806905
+BPO Best Pos: 0.378858
+BPO Best Pos: -0.363571
+BPO Best Pos: 1.133904
+BPO Best Pos: 0.955375
+BPO Best Pos: 0.713993
+BPO Best Pos: 0.882619
+BPO Best Pos: 2.049927
+BPO Best Pos: 0.966831
+BPO Best Pos: 0.016028
+BPO Best Pos: 0.738701
+BPO Best Pos: -0.232359
+BPO Best Pos: -0.491022
+BPO Best Pos: 6.408087
+BPO Best Pos: 0.928621
+BPO Best Pos: 0.032356
+BPO Best Pos: 1.489418
+BPO Best Pos: 0.720864
+BPO Best Pos: 0.274915
+BPO Best Pos: 0.560173
+BPO Best Pos: 2.063620
+BPO Best Pos: 1.433968
+BPO Best Pos: 1.000000
+BPO Best Pos: -3.233158
+BPO Best Pos: -0.048070
+BPO Best Pos: -0.209299
+BPO Best Pos: -0.569007
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.084900
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.216310
+BPO Best Pos: 0.870549
+BPO Best Pos: -3.462770
+BPO Best Pos: 1.435272
+BPO Best Pos: 0.987050
+BPO Best Pos: -0.127940
+BPO Best Pos: 3.399265
+BPO Best Pos: 0.034580
+BPO Best Pos: -0.399387
+BPO Best Pos: -0.809622
+BPO Best Pos: 0.535298
+BPO Best Pos: 1.383292
+BPO Best Pos: -0.189914
+BPO Best Pos: 0.278472
+BPO Best Pos: -0.194211
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.008211
+BPO Best Pos: 0.030958
+BPO Best Pos: 1.133920
+BPO Best Pos: 0.711346
+BPO Best Pos: -0.176759
+BPO Best Pos: 1.806456
+BPO Best Pos: 1.119758
+BPO Best Pos: 0.029612
+BPO Best Pos: 0.537549
+BPO Best Pos: 0.442428
+BPO Best Pos: 0.492492
+BPO Best Pos: 0.065712
+BPO Best Pos: 1.396916
+BPO Best Pos: 0.438125
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 3.959128
+BPO Best Pos: 0.999168
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.847379
+BPO Best Pos: 0.126044
+BPO Best Pos: 0.000000
+BPO Best Pos: -2.198490
+BPO Best Pos: 0.065040
+BPO Best Pos: 1.281626
+BPO Best Pos: 0.006465
+BPO Best Pos: 0.018692
+BPO Best Pos: 0.044748
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.352605
+BPO Best Pos: 0.445482
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.403462
+BPO Best Pos: 0.909333
+BPO Best Pos: -0.115632
+BPO Best Pos: 2.396853
+BPO Best Pos: -0.642928
+BPO Best Pos: 1.213975
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.288966
+BPO Best Pos: 2.384961
+BPO Best Pos: 1.032518
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.135938
+BPO Best Pos: 0.983520
+BPO Best Pos: 0.148402
+BPO Best Pos: 1.519126
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.101392
+BPO Best Pos: 3.094645
+BPO Best Pos: 0.000000
+BPO Best Pos: 2.114759
+BPO Best Pos: 0.999532
+BPO Best Pos: -0.732595
+BPO Best Pos: -0.043075
+BPO Best Pos: 0.115712
+BPO Best Pos: 0.112226
+BPO Best Pos: 2.733693
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.097851
+BPO Best Pos: 2.440702
+BPO Best Pos: 0.974531
+BPO Best Pos: 1.144336
+BPO Best Pos: 0.010967
+BPO Best Pos: -0.068502
+BPO Best Pos: 0.000211
+BPO Best Pos: 4.044025
+BPO Best Pos: -3.358512
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.648416
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.915908
+BPO Best Pos: 0.015093
+BPO Best Pos: 1.276300
+BPO Best Pos: 0.000958
+BPO Best Pos: 1.818900
+BPO Best Pos: -2.831008
+BPO Best Pos: 1.016514
+BPO Best Pos: 1.183323
+BPO Best Pos: 1.027372
+BPO Best Pos: -0.871386
+BPO Best Pos: 0.341343
+BPO Best Pos: -1.322078
+BPO Best Pos: 0.020572
+BPO Best Pos: 0.763920
+BPO Best Pos: -1.298295
+BPO Best Pos: -1.531397
+BPO Best Pos: 1.074447
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.973362
+BPO Best Pos: 0.930019
+BPO Best Pos: 0.992708
+BPO Best Pos: 1.657762
+BPO Best Pos: -0.368068
+BPO Best Pos: -0.956614
+BPO Best Pos: 0.768817
+BPO Best Pos: 0.770498
+BPO Best Pos: -0.177352
+BPO Best Pos: -3.001808
+BPO Best Pos: 0.229477
+BPO Best Pos: 1.776784
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.736224
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.005054
+BPO Best Pos: -0.493411
+BPO Best Pos: 0.700481
+BPO Best Pos: 0.411583
+BPO Best Pos: 0.975107
+BPO Best Pos: -0.878226
+BPO Best Pos: -0.273538
+BPO Best Pos: 1.867933
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.162484
+BPO Best Pos: 0.031954
+BPO Best Pos: 0.738101
+BPO Best Pos: 1.868454
+BPO Best Pos: 1.106698
+BPO Best Pos: 0.023664
+BPO Best Pos: 0.430875
+BPO Best Pos: 1.299924
+BPO Best Pos: 0.891968
+BPO Best Pos: 0.014564
+BPO Best Pos: -0.066107
+BPO Best Pos: 0.040016
+BPO Best Pos: 0.660454
+BPO Best Pos: 0.242828
+Curve: 0.366957
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Curve: 0.353183
+Run 4
+BPO Best Score: 0.350685
+BPO Best Pos: 0.179217
+BPO Best Pos: 1.484302
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.888619
+BPO Best Pos: 0.790171
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 2.728150
+BPO Best Pos: -1.764847
+BPO Best Pos: -0.311156
+BPO Best Pos: -0.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.183237
+BPO Best Pos: 1.002344
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: 1.957934
+BPO Best Pos: 0.366700
+BPO Best Pos: 1.344860
+BPO Best Pos: 1.044234
+BPO Best Pos: 1.518706
+BPO Best Pos: 1.461587
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.368643
+BPO Best Pos: 1.125137
+BPO Best Pos: -0.136163
+BPO Best Pos: -0.988162
+BPO Best Pos: 0.887058
+BPO Best Pos: 1.358979
+BPO Best Pos: 1.197759
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.176593
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.066796
+BPO Best Pos: -0.752085
+BPO Best Pos: 0.220566
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.353528
+BPO Best Pos: 1.465938
+BPO Best Pos: -0.240445
+BPO Best Pos: -3.291134
+BPO Best Pos: -0.408646
+BPO Best Pos: -2.275999
+BPO Best Pos: 0.618309
+BPO Best Pos: 1.230304
+BPO Best Pos: 1.448051
+BPO Best Pos: -0.000000
+BPO Best Pos: 1.270328
+BPO Best Pos: -0.709289
+BPO Best Pos: -0.386605
+BPO Best Pos: -0.010502
+BPO Best Pos: 1.479629
+BPO Best Pos: 0.327683
+BPO Best Pos: 1.894161
+BPO Best Pos: -2.335779
+BPO Best Pos: -2.084578
+BPO Best Pos: 1.345730
+BPO Best Pos: -0.272093
+BPO Best Pos: 2.891559
+BPO Best Pos: 2.169210
+BPO Best Pos: -0.000000
+BPO Best Pos: -0.157586
+BPO Best Pos: -0.000000
+BPO Best Pos: -0.338483
+BPO Best Pos: 0.999966
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.097485
+BPO Best Pos: -0.068943
+BPO Best Pos: 0.718996
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.983707
+BPO Best Pos: -0.809413
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.995189
+BPO Best Pos: -2.967263
+BPO Best Pos: 3.720542
+BPO Best Pos: -0.571543
+BPO Best Pos: 1.473843
+BPO Best Pos: 0.887810
+BPO Best Pos: -0.597625
+BPO Best Pos: 2.092456
+BPO Best Pos: -0.756544
+BPO Best Pos: -1.633720
+BPO Best Pos: 0.117488
+BPO Best Pos: 1.000000
+BPO Best Pos: -2.651951
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.405717
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.093648
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.649900
+BPO Best Pos: -1.133184
+BPO Best Pos: 2.312781
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.929201
+BPO Best Pos: 1.000000
+BPO Best Pos: 2.552882
+BPO Best Pos: 4.260957
+BPO Best Pos: 0.833473
+BPO Best Pos: -0.070020
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.028289
+BPO Best Pos: 0.951095
+BPO Best Pos: 0.627260
+BPO Best Pos: 0.236685
+BPO Best Pos: 0.989224
+BPO Best Pos: 0.081898
+BPO Best Pos: -0.945088
+BPO Best Pos: -1.801697
+BPO Best Pos: -0.892978
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.310888
+BPO Best Pos: 1.450570
+BPO Best Pos: 3.484531
+BPO Best Pos: 0.923516
+BPO Best Pos: 1.310083
+BPO Best Pos: 1.083200
+BPO Best Pos: 0.906529
+BPO Best Pos: 0.944017
+BPO Best Pos: 0.308504
+BPO Best Pos: -0.072338
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.367778
+BPO Best Pos: 2.042419
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.284711
+BPO Best Pos: 1.870467
+BPO Best Pos: -2.742715
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.254684
+BPO Best Pos: 0.173482
+BPO Best Pos: 1.215591
+BPO Best Pos: 0.801201
+BPO Best Pos: -1.677967
+BPO Best Pos: 1.611629
+BPO Best Pos: 0.191233
+BPO Best Pos: 0.469935
+BPO Best Pos: 0.773990
+BPO Best Pos: 1.684916
+BPO Best Pos: 4.536466
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.669100
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.961790
+BPO Best Pos: 2.009264
+BPO Best Pos: 1.638321
+BPO Best Pos: 0.793632
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.181347
+BPO Best Pos: 1.053802
+BPO Best Pos: -0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.294568
+BPO Best Pos: 0.942231
+BPO Best Pos: 0.814027
+BPO Best Pos: 0.498809
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.097565
+BPO Best Pos: 1.284447
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.220515
+BPO Best Pos: 1.830725
+BPO Best Pos: 1.803080
+BPO Best Pos: -0.363802
+BPO Best Pos: -0.000000
+BPO Best Pos: -1.238098
+BPO Best Pos: 1.000000
+BPO Best Pos: 2.528979
+BPO Best Pos: -0.000000
+BPO Best Pos: -0.848507
+BPO Best Pos: 1.022939
+BPO Best Pos: 0.892314
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.021283
+BPO Best Pos: 1.151386
+BPO Best Pos: 0.606679
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.831637
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.258568
+BPO Best Pos: -1.804651
+BPO Best Pos: -0.063691
+BPO Best Pos: -0.278491
+BPO Best Pos: -0.899090
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.146631
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.662842
+BPO Best Pos: 0.004741
+BPO Best Pos: 0.770827
+BPO Best Pos: -0.040250
+BPO Best Pos: 0.869442
+BPO Best Pos: -0.271501
+BPO Best Pos: 1.651294
+BPO Best Pos: 2.593727
+BPO Best Pos: -0.292104
+BPO Best Pos: 1.448781
+BPO Best Pos: -0.045268
+BPO Best Pos: 0.611136
+BPO Best Pos: 0.562079
+BPO Best Pos: 0.784938
+BPO Best Pos: 0.002890
+BPO Best Pos: -0.687466
+BPO Best Pos: -1.183780
+BPO Best Pos: -0.074587
+BPO Best Pos: 1.098766
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.075853
+BPO Best Pos: 0.000000
+BPO Best Pos: 2.369290
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.095089
+BPO Best Pos: 1.190339
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.122042
+BPO Best Pos: 0.748693
+BPO Best Pos: 1.216012
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.288319
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.013026
+BPO Best Pos: 0.154598
+BPO Best Pos: 1.328303
+BPO Best Pos: -0.192654
+BPO Best Pos: -1.907214
+BPO Best Pos: 2.055774
+BPO Best Pos: 0.593415
+BPO Best Pos: 1.022929
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.279430
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.272140
+BPO Best Pos: -0.500339
+BPO Best Pos: 1.162598
+BPO Best Pos: 1.000000
+BPO Best Pos: 8.554736
+BPO Best Pos: 1.145328
+BPO Best Pos: 0.061927
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.249067
+BPO Best Pos: 1.321434
+BPO Best Pos: 0.404858
+BPO Best Pos: 2.253278
+BPO Best Pos: 0.327884
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.679527
+BPO Best Pos: -1.251561
+BPO Best Pos: 1.005765
+BPO Best Pos: -0.194826
+BPO Best Pos: -0.528262
+BPO Best Pos: -0.248653
+BPO Best Pos: -0.000000
+BPO Best Pos: 1.023726
+BPO Best Pos: 1.000000
+BPO Best Pos: 3.750753
+BPO Best Pos: -0.231298
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.017303
+BPO Best Pos: -0.038682
+BPO Best Pos: 0.858808
+BPO Best Pos: 0.174831
+BPO Best Pos: 0.988366
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: -0.038387
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.356004
+Curve: 0.352908
+Curve: 0.352908
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350792
+Curve: 0.350756
+Curve: 0.350756
+Curve: 0.350720
+Curve: 0.350720
+Curve: 0.350720
+Curve: 0.350720
+Curve: 0.350720
+Curve: 0.350720
+Curve: 0.350685
+Run 5
+BPO Best Score: 0.346308
+BPO Best Pos: -0.038844
+BPO Best Pos: -0.017005
+BPO Best Pos: -0.588235
+BPO Best Pos: -0.267076
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.780198
+BPO Best Pos: 2.421601
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.949745
+BPO Best Pos: -0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.486976
+BPO Best Pos: 1.230252
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.567753
+BPO Best Pos: -0.286495
+BPO Best Pos: 0.047362
+BPO Best Pos: -0.000000
+BPO Best Pos: -0.079367
+BPO Best Pos: 0.510084
+BPO Best Pos: 1.000000
+BPO Best Pos: 3.845681
+BPO Best Pos: -0.000000
+BPO Best Pos: 2.054626
+BPO Best Pos: 2.240679
+BPO Best Pos: 0.775715
+BPO Best Pos: 0.986340
+BPO Best Pos: 0.156293
+BPO Best Pos: 1.332964
+BPO Best Pos: 1.323646
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.256246
+BPO Best Pos: 0.582464
+BPO Best Pos: 1.896843
+BPO Best Pos: -0.787127
+BPO Best Pos: -0.239608
+BPO Best Pos: -0.001209
+BPO Best Pos: -0.884622
+BPO Best Pos: 0.859281
+BPO Best Pos: 0.699083
+BPO Best Pos: 1.984625
+BPO Best Pos: 2.865434
+BPO Best Pos: -0.273534
+BPO Best Pos: 1.940830
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.536237
+BPO Best Pos: -1.495051
+BPO Best Pos: 0.205331
+BPO Best Pos: -0.406834
+BPO Best Pos: 1.500793
+BPO Best Pos: 0.987138
+BPO Best Pos: -2.289452
+BPO Best Pos: 1.263669
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.132266
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.921990
+BPO Best Pos: 0.641260
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.013471
+BPO Best Pos: 0.687274
+BPO Best Pos: 1.197256
+BPO Best Pos: 1.602613
+BPO Best Pos: 1.000000
+BPO Best Pos: 2.352374
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.108894
+BPO Best Pos: 0.032767
+BPO Best Pos: 1.265530
+BPO Best Pos: 0.832971
+BPO Best Pos: 1.460645
+BPO Best Pos: -0.552032
+BPO Best Pos: 1.309757
+BPO Best Pos: -0.328917
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.183289
+BPO Best Pos: -0.006492
+BPO Best Pos: 1.991443
+BPO Best Pos: 0.769102
+BPO Best Pos: 1.005434
+BPO Best Pos: 0.258268
+BPO Best Pos: 0.436597
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.503903
+BPO Best Pos: 0.474913
+BPO Best Pos: -0.362170
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.839616
+BPO Best Pos: -2.276399
+BPO Best Pos: -0.481765
+BPO Best Pos: 1.122340
+BPO Best Pos: -0.422563
+BPO Best Pos: 0.025241
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.980560
+BPO Best Pos: 0.799693
+BPO Best Pos: 1.047745
+BPO Best Pos: 0.674426
+BPO Best Pos: -0.157153
+BPO Best Pos: 0.409673
+BPO Best Pos: 1.909892
+BPO Best Pos: -1.003997
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.037410
+BPO Best Pos: 0.013298
+BPO Best Pos: 1.034171
+BPO Best Pos: 1.744425
+BPO Best Pos: 1.000000
+BPO Best Pos: -2.336600
+BPO Best Pos: 0.110588
+BPO Best Pos: 0.010040
+BPO Best Pos: 1.341638
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.882554
+BPO Best Pos: -0.598695
+BPO Best Pos: -0.171561
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.979904
+BPO Best Pos: 1.020318
+BPO Best Pos: -0.000000
+BPO Best Pos: 1.430981
+BPO Best Pos: -1.607827
+BPO Best Pos: 0.188795
+BPO Best Pos: 0.980624
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.182100
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.779018
+BPO Best Pos: 1.257734
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.661039
+BPO Best Pos: 1.971427
+BPO Best Pos: -0.379908
+BPO Best Pos: -0.019426
+BPO Best Pos: -0.473823
+BPO Best Pos: 3.150217
+BPO Best Pos: 2.120681
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.706337
+BPO Best Pos: 0.982427
+BPO Best Pos: 0.233282
+BPO Best Pos: 1.870300
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.071248
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.112519
+BPO Best Pos: 2.295578
+BPO Best Pos: -0.079544
+BPO Best Pos: -0.904739
+BPO Best Pos: 0.140684
+BPO Best Pos: 1.067744
+BPO Best Pos: -0.554092
+BPO Best Pos: -0.000000
+BPO Best Pos: 1.428017
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.930299
+BPO Best Pos: -0.247769
+BPO Best Pos: -1.223378
+BPO Best Pos: 1.008049
+BPO Best Pos: -0.528120
+BPO Best Pos: -2.274637
+BPO Best Pos: 3.045697
+BPO Best Pos: 0.918576
+BPO Best Pos: 0.012941
+BPO Best Pos: -0.915169
+BPO Best Pos: 1.000000
+BPO Best Pos: 4.456920
+BPO Best Pos: 1.230424
+BPO Best Pos: 1.150692
+BPO Best Pos: -0.016787
+BPO Best Pos: -0.000000
+BPO Best Pos: 1.660730
+BPO Best Pos: -0.287418
+BPO Best Pos: 1.689340
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 2.097492
+BPO Best Pos: 1.376918
+BPO Best Pos: -0.061281
+BPO Best Pos: 0.475893
+BPO Best Pos: 1.419451
+BPO Best Pos: 1.073833
+BPO Best Pos: 1.826010
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: 3.795311
+BPO Best Pos: -0.477569
+BPO Best Pos: 2.527010
+BPO Best Pos: 1.861562
+BPO Best Pos: 0.973233
+BPO Best Pos: 1.051715
+BPO Best Pos: -0.261673
+BPO Best Pos: -0.255040
+BPO Best Pos: 0.351179
+BPO Best Pos: 0.000000
+BPO Best Pos: 2.401249
+BPO Best Pos: -0.978880
+BPO Best Pos: -0.033864
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.671017
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.145165
+BPO Best Pos: 0.757960
+BPO Best Pos: -0.081471
+BPO Best Pos: 1.372685
+BPO Best Pos: 0.093416
+BPO Best Pos: -0.306409
+BPO Best Pos: -0.585141
+BPO Best Pos: -0.558757
+BPO Best Pos: 3.054505
+BPO Best Pos: 0.984699
+BPO Best Pos: 1.643007
+BPO Best Pos: 0.233634
+BPO Best Pos: 1.001202
+BPO Best Pos: 0.960527
+BPO Best Pos: 1.117642
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.539444
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.529009
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.484527
+BPO Best Pos: 1.878919
+BPO Best Pos: 1.200713
+BPO Best Pos: 0.148209
+BPO Best Pos: 1.890555
+BPO Best Pos: -1.044112
+BPO Best Pos: 1.528461
+BPO Best Pos: 2.238252
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.215022
+BPO Best Pos: 1.377205
+BPO Best Pos: -0.000000
+BPO Best Pos: -0.527651
+BPO Best Pos: -1.700153
+BPO Best Pos: -0.764432
+BPO Best Pos: 1.666355
+BPO Best Pos: 0.022895
+BPO Best Pos: 1.205524
+BPO Best Pos: 0.862333
+BPO Best Pos: 0.106831
+BPO Best Pos: 0.888460
+BPO Best Pos: -0.498255
+BPO Best Pos: -0.083037
+BPO Best Pos: -0.007107
+BPO Best Pos: 1.002068
+BPO Best Pos: 1.027776
+BPO Best Pos: -0.000000
+BPO Best Pos: -0.428042
+BPO Best Pos: 1.856384
+BPO Best Pos: 4.393352
+BPO Best Pos: -0.066479
+BPO Best Pos: -0.290499
+BPO Best Pos: -0.072899
+BPO Best Pos: -0.795894
+BPO Best Pos: 1.600143
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.417407
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.184207
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.160398
+BPO Best Pos: 1.063579
+BPO Best Pos: 1.786946
+BPO Best Pos: 1.802467
+BPO Best Pos: 0.679663
+BPO Best Pos: -0.151106
+BPO Best Pos: -0.288577
+BPO Best Pos: -0.177920
+BPO Best Pos: 1.087708
+BPO Best Pos: 1.332209
+BPO Best Pos: 0.696034
+BPO Best Pos: 2.740177
+BPO Best Pos: -0.166833
+BPO Best Pos: -0.278720
+Curve: 0.356208
+Curve: 0.355562
+Curve: 0.355562
+Curve: 0.355562
+Curve: 0.355562
+Curve: 0.355562
+Curve: 0.355562
+Curve: 0.355562
+Curve: 0.355562
+Curve: 0.355562
+Curve: 0.355562
+Curve: 0.355562
+Curve: 0.355562
+Curve: 0.355562
+Curve: 0.355562
+Curve: 0.355562
+Curve: 0.355562
+Curve: 0.355562
+Curve: 0.355562
+Curve: 0.355562
+Curve: 0.355562
+Curve: 0.355562
+Curve: 0.355562
+Curve: 0.355562
+Curve: 0.355562
+Curve: 0.355562
+Curve: 0.355562
+Curve: 0.355562
+Curve: 0.355562
+Curve: 0.355562
+Curve: 0.355562
+Curve: 0.355562
+Curve: 0.355562
+Curve: 0.355562
+Curve: 0.355562
+Curve: 0.355562
+Curve: 0.355562
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Curve: 0.346308
+Run 6
+BPO Best Score: 0.358025
+BPO Best Pos: 0.076117
+BPO Best Pos: 0.997587
+BPO Best Pos: 1.161675
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.096248
+BPO Best Pos: 1.040565
+BPO Best Pos: 0.422099
+BPO Best Pos: 1.940595
+BPO Best Pos: 0.229403
+BPO Best Pos: -0.981327
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.642971
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.871772
+BPO Best Pos: 0.153140
+BPO Best Pos: 1.698877
+BPO Best Pos: 1.317426
+BPO Best Pos: 1.459274
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.041364
+BPO Best Pos: -0.233237
+BPO Best Pos: 0.005509
+BPO Best Pos: -0.795309
+BPO Best Pos: -0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.766632
+BPO Best Pos: -0.161647
+BPO Best Pos: 1.465828
+BPO Best Pos: 1.027063
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.977116
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.959923
+BPO Best Pos: 2.094995
+BPO Best Pos: -0.170129
+BPO Best Pos: 1.370334
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.382546
+BPO Best Pos: 1.497011
+BPO Best Pos: 0.074000
+BPO Best Pos: -0.303928
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.939544
+BPO Best Pos: 1.478699
+BPO Best Pos: 1.034237
+BPO Best Pos: -0.533258
+BPO Best Pos: -0.495002
+BPO Best Pos: -0.000000
+BPO Best Pos: -0.271405
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.859859
+BPO Best Pos: 1.196578
+BPO Best Pos: 1.082470
+BPO Best Pos: -0.113727
+BPO Best Pos: 1.217253
+BPO Best Pos: -0.425660
+BPO Best Pos: -0.116311
+BPO Best Pos: -0.497160
+BPO Best Pos: 0.301006
+BPO Best Pos: -0.107607
+BPO Best Pos: 0.214105
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.507779
+BPO Best Pos: 0.033437
+BPO Best Pos: 1.720517
+BPO Best Pos: 1.156002
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.405816
+BPO Best Pos: 1.059130
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.343483
+BPO Best Pos: 1.435113
+BPO Best Pos: -0.479273
+BPO Best Pos: 1.102226
+BPO Best Pos: 0.528319
+BPO Best Pos: -0.203779
+BPO Best Pos: -0.000000
+BPO Best Pos: 1.766904
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.428007
+BPO Best Pos: 1.319054
+BPO Best Pos: 0.999731
+BPO Best Pos: -0.667109
+BPO Best Pos: 0.285674
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.237213
+BPO Best Pos: 1.126663
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.517584
+BPO Best Pos: 1.657454
+BPO Best Pos: 1.421851
+BPO Best Pos: 0.137437
+BPO Best Pos: 1.209663
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.965364
+BPO Best Pos: -0.040177
+BPO Best Pos: -0.018299
+BPO Best Pos: 1.987885
+BPO Best Pos: -0.407358
+BPO Best Pos: 1.184649
+BPO Best Pos: 0.077213
+BPO Best Pos: -1.061911
+BPO Best Pos: -0.576058
+BPO Best Pos: 0.415693
+BPO Best Pos: 1.951873
+BPO Best Pos: 0.958645
+BPO Best Pos: -0.089479
+BPO Best Pos: 1.470679
+BPO Best Pos: -0.510299
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.382029
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.302049
+BPO Best Pos: -0.431045
+BPO Best Pos: -0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.409485
+BPO Best Pos: 0.600866
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.068226
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.631260
+BPO Best Pos: -0.560326
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.571313
+BPO Best Pos: 1.608940
+BPO Best Pos: 2.588629
+BPO Best Pos: 0.795477
+BPO Best Pos: 0.381930
+BPO Best Pos: -0.006847
+BPO Best Pos: 1.462991
+BPO Best Pos: -0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.384181
+BPO Best Pos: 2.341624
+BPO Best Pos: 1.108844
+BPO Best Pos: 1.637856
+BPO Best Pos: -0.332423
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.174162
+BPO Best Pos: 1.176025
+BPO Best Pos: 0.351741
+BPO Best Pos: 2.528724
+BPO Best Pos: 1.077599
+BPO Best Pos: -0.123820
+BPO Best Pos: 1.398115
+BPO Best Pos: -0.680519
+BPO Best Pos: 0.313481
+BPO Best Pos: 0.317386
+BPO Best Pos: 1.712095
+BPO Best Pos: 0.656241
+BPO Best Pos: 1.709052
+BPO Best Pos: -0.000000
+BPO Best Pos: -1.225070
+BPO Best Pos: 0.808681
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.952354
+BPO Best Pos: -0.087611
+BPO Best Pos: 1.674565
+BPO Best Pos: 0.787776
+BPO Best Pos: 0.916117
+BPO Best Pos: 0.552085
+BPO Best Pos: 1.360353
+BPO Best Pos: 0.738006
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: 1.100342
+BPO Best Pos: 0.952331
+BPO Best Pos: 0.793469
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.358584
+BPO Best Pos: -0.513035
+BPO Best Pos: 1.252185
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.795170
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.281925
+BPO Best Pos: 1.227042
+BPO Best Pos: -0.000000
+BPO Best Pos: -0.225154
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.272866
+BPO Best Pos: -0.479326
+BPO Best Pos: -0.523530
+BPO Best Pos: 2.304503
+BPO Best Pos: -0.621950
+BPO Best Pos: -0.792751
+BPO Best Pos: -0.171149
+BPO Best Pos: -0.458022
+BPO Best Pos: -0.688639
+BPO Best Pos: -0.184273
+BPO Best Pos: 1.864567
+BPO Best Pos: 1.145280
+BPO Best Pos: -1.693860
+BPO Best Pos: 1.310873
+BPO Best Pos: 0.340242
+BPO Best Pos: 1.486323
+BPO Best Pos: -1.181413
+BPO Best Pos: 1.238160
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.377262
+BPO Best Pos: -0.244213
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.922323
+BPO Best Pos: 1.823507
+BPO Best Pos: -0.353426
+BPO Best Pos: -0.487219
+BPO Best Pos: -0.568245
+BPO Best Pos: 0.098797
+BPO Best Pos: -0.734349
+BPO Best Pos: 0.694696
+BPO Best Pos: 0.878849
+BPO Best Pos: 1.003234
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.228656
+BPO Best Pos: -0.000000
+BPO Best Pos: -0.558226
+BPO Best Pos: 1.955276
+BPO Best Pos: -0.687652
+BPO Best Pos: -0.775938
+BPO Best Pos: 0.195772
+BPO Best Pos: -0.359373
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.199443
+BPO Best Pos: -0.000000
+BPO Best Pos: 1.324825
+BPO Best Pos: -0.247593
+BPO Best Pos: 0.004402
+BPO Best Pos: -0.729208
+BPO Best Pos: 0.088274
+BPO Best Pos: 1.017085
+BPO Best Pos: -0.266773
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.861326
+BPO Best Pos: -0.127708
+BPO Best Pos: 0.151035
+BPO Best Pos: 1.312806
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.691591
+BPO Best Pos: 0.673856
+BPO Best Pos: -0.874809
+BPO Best Pos: -0.863383
+BPO Best Pos: 1.191245
+BPO Best Pos: 1.651051
+BPO Best Pos: 0.031771
+BPO Best Pos: 0.032422
+BPO Best Pos: 0.979681
+BPO Best Pos: -0.010006
+BPO Best Pos: -0.200224
+BPO Best Pos: 0.183139
+BPO Best Pos: 0.323254
+BPO Best Pos: 2.695486
+BPO Best Pos: -0.604258
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.951972
+BPO Best Pos: -0.655544
+BPO Best Pos: -0.219702
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.764705
+BPO Best Pos: -0.391240
+BPO Best Pos: 2.375884
+BPO Best Pos: 0.579028
+BPO Best Pos: -0.012104
+BPO Best Pos: -0.444000
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358300
+Curve: 0.358025
+Curve: 0.358025
+Curve: 0.358025
+Curve: 0.358025
+Curve: 0.358025
+Curve: 0.358025
+Curve: 0.358025
+Curve: 0.358025
+Curve: 0.358025
+Curve: 0.358025
+Curve: 0.358025
+Curve: 0.358025
+Curve: 0.358025
+Curve: 0.358025
+Run 7
+BPO Best Score: 0.360643
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.056705
+BPO Best Pos: 0.149214
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.859903
+BPO Best Pos: -0.202730
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.108794
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.151913
+BPO Best Pos: -0.240074
+BPO Best Pos: 1.786024
+BPO Best Pos: 1.943599
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.992635
+BPO Best Pos: 1.942305
+BPO Best Pos: 0.357485
+BPO Best Pos: 1.204017
+BPO Best Pos: 0.972215
+BPO Best Pos: -0.954142
+BPO Best Pos: -0.022093
+BPO Best Pos: -0.595716
+BPO Best Pos: 1.180145
+BPO Best Pos: 0.261097
+BPO Best Pos: 0.799797
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.289909
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.023335
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.721480
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.058802
+BPO Best Pos: 0.000363
+BPO Best Pos: -1.076530
+BPO Best Pos: 1.976640
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.424694
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.402134
+BPO Best Pos: -0.249464
+BPO Best Pos: -0.191376
+BPO Best Pos: 1.540640
+BPO Best Pos: 1.030773
+BPO Best Pos: -0.276872
+BPO Best Pos: -0.392690
+BPO Best Pos: -0.568421
+BPO Best Pos: 1.587377
+BPO Best Pos: 0.726877
+BPO Best Pos: -0.886882
+BPO Best Pos: 0.839905
+BPO Best Pos: -0.579188
+BPO Best Pos: -0.505386
+BPO Best Pos: -0.252589
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.900229
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.096869
+BPO Best Pos: -0.439470
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.365403
+BPO Best Pos: -0.904279
+BPO Best Pos: 0.991396
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.396841
+BPO Best Pos: 1.030866
+BPO Best Pos: 1.426720
+BPO Best Pos: -0.126218
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.064169
+BPO Best Pos: 1.258606
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.443823
+BPO Best Pos: 2.990404
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.116748
+BPO Best Pos: -0.599906
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.392729
+BPO Best Pos: 0.018251
+BPO Best Pos: -0.190545
+BPO Best Pos: 0.081583
+BPO Best Pos: 1.349599
+BPO Best Pos: -0.301438
+BPO Best Pos: -0.563046
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.364466
+BPO Best Pos: -0.577188
+BPO Best Pos: 1.806715
+BPO Best Pos: 1.108393
+BPO Best Pos: 2.600248
+BPO Best Pos: 0.741618
+BPO Best Pos: 0.379294
+BPO Best Pos: 1.438868
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.280297
+BPO Best Pos: 2.411414
+BPO Best Pos: 1.356471
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.830525
+BPO Best Pos: -0.186667
+BPO Best Pos: -0.804695
+BPO Best Pos: -0.055860
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.026777
+BPO Best Pos: -0.106512
+BPO Best Pos: 2.235641
+BPO Best Pos: -0.925215
+BPO Best Pos: -0.589214
+BPO Best Pos: -0.150300
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.842812
+BPO Best Pos: -0.239477
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.589197
+BPO Best Pos: 0.970339
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.026599
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.049238
+BPO Best Pos: -0.369887
+BPO Best Pos: 1.748355
+BPO Best Pos: 1.148143
+BPO Best Pos: -0.198072
+BPO Best Pos: 1.006096
+BPO Best Pos: 1.830819
+BPO Best Pos: -0.127089
+BPO Best Pos: 0.706677
+BPO Best Pos: -0.234981
+BPO Best Pos: -0.948068
+BPO Best Pos: -0.946917
+BPO Best Pos: -1.600458
+BPO Best Pos: 2.646977
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.060789
+BPO Best Pos: 0.566709
+BPO Best Pos: 1.185653
+BPO Best Pos: 0.131516
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.050216
+BPO Best Pos: 0.822036
+BPO Best Pos: 0.609448
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.335635
+BPO Best Pos: 0.437915
+BPO Best Pos: 1.395455
+BPO Best Pos: 1.385415
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.420599
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.274172
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.434472
+BPO Best Pos: 0.406852
+BPO Best Pos: -0.361735
+BPO Best Pos: 1.322596
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.351145
+BPO Best Pos: -0.252882
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.342435
+BPO Best Pos: 0.617374
+BPO Best Pos: 1.406191
+BPO Best Pos: 1.100878
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.115121
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.002069
+BPO Best Pos: 1.755876
+BPO Best Pos: -0.291914
+BPO Best Pos: 1.125106
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.600532
+BPO Best Pos: 2.045252
+BPO Best Pos: 1.858353
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.000210
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.185528
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.230731
+BPO Best Pos: 1.482160
+BPO Best Pos: -0.150664
+BPO Best Pos: -0.329660
+BPO Best Pos: 0.277140
+BPO Best Pos: 1.734606
+BPO Best Pos: 1.873676
+BPO Best Pos: 0.752360
+BPO Best Pos: 0.798427
+BPO Best Pos: -0.133313
+BPO Best Pos: 0.015518
+BPO Best Pos: -0.773734
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.929292
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.609996
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.890316
+BPO Best Pos: 1.817328
+BPO Best Pos: -0.200787
+BPO Best Pos: 1.409985
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.254796
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.825996
+BPO Best Pos: 1.178967
+BPO Best Pos: -0.412313
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.543682
+BPO Best Pos: 0.225893
+BPO Best Pos: -0.079505
+BPO Best Pos: -0.440778
+BPO Best Pos: 0.723739
+BPO Best Pos: -0.518979
+BPO Best Pos: 0.115944
+BPO Best Pos: -0.358842
+BPO Best Pos: -0.638696
+BPO Best Pos: -0.466120
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.976748
+BPO Best Pos: 0.253608
+BPO Best Pos: 1.720204
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.962438
+BPO Best Pos: 1.047063
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.596886
+BPO Best Pos: 1.341133
+BPO Best Pos: 1.172865
+BPO Best Pos: -1.517294
+BPO Best Pos: -0.422728
+BPO Best Pos: -0.448908
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.061847
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.518033
+BPO Best Pos: -1.062260
+BPO Best Pos: 0.997062
+BPO Best Pos: 0.759878
+BPO Best Pos: 0.092082
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.379408
+BPO Best Pos: -0.993863
+BPO Best Pos: -0.142285
+BPO Best Pos: 1.129093
+BPO Best Pos: 1.144633
+BPO Best Pos: -0.413947
+BPO Best Pos: 0.691335
+BPO Best Pos: 0.519517
+BPO Best Pos: -0.217055
+BPO Best Pos: 0.601220
+BPO Best Pos: 0.195874
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.632217
+BPO Best Pos: 1.536373
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.053746
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.487192
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.261993
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Curve: 0.360643
+Run 8
+BPO Best Score: 0.348459
+BPO Best Pos: -0.836787
+BPO Best Pos: -1.355316
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.878255
+BPO Best Pos: -1.446653
+BPO Best Pos: -0.488271
+BPO Best Pos: 1.007348
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.466017
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 2.048478
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.688781
+BPO Best Pos: -0.255192
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.986625
+BPO Best Pos: -0.969415
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.212088
+BPO Best Pos: 2.396023
+BPO Best Pos: 0.000000
+BPO Best Pos: 2.482963
+BPO Best Pos: 0.243349
+BPO Best Pos: 0.810254
+BPO Best Pos: 0.621708
+BPO Best Pos: 2.083929
+BPO Best Pos: 0.567123
+BPO Best Pos: 0.822295
+BPO Best Pos: 1.023821
+BPO Best Pos: 1.780972
+BPO Best Pos: 1.735298
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.231145
+BPO Best Pos: -1.423823
+BPO Best Pos: 0.034173
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.960108
+BPO Best Pos: 1.994795
+BPO Best Pos: 0.000000
+BPO Best Pos: 2.776112
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.896207
+BPO Best Pos: 1.564858
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: -1.260424
+BPO Best Pos: 1.077353
+BPO Best Pos: 0.584946
+BPO Best Pos: -0.473660
+BPO Best Pos: 1.143592
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.105493
+BPO Best Pos: 1.336471
+BPO Best Pos: -0.362166
+BPO Best Pos: -0.628341
+BPO Best Pos: -0.374861
+BPO Best Pos: 0.000000
+BPO Best Pos: 2.551434
+BPO Best Pos: -1.615596
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.813480
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.316026
+BPO Best Pos: 1.391089
+BPO Best Pos: -0.190214
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.690850
+BPO Best Pos: 1.025298
+BPO Best Pos: 1.715099
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.977648
+BPO Best Pos: 2.415342
+BPO Best Pos: 0.651352
+BPO Best Pos: -0.926882
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.496272
+BPO Best Pos: -0.782105
+BPO Best Pos: 1.250445
+BPO Best Pos: -1.016970
+BPO Best Pos: 1.049003
+BPO Best Pos: -1.087905
+BPO Best Pos: -0.002137
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.359660
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.086914
+BPO Best Pos: -0.455643
+BPO Best Pos: 0.712161
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.745449
+BPO Best Pos: -1.333566
+BPO Best Pos: 0.739404
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.202885
+BPO Best Pos: 0.891388
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.199100
+BPO Best Pos: 0.197391
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.066597
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.988298
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.815648
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.929165
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: -1.124541
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.089024
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.151307
+BPO Best Pos: 1.377465
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.054050
+BPO Best Pos: 1.000000
+BPO Best Pos: -1.152328
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.952256
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.951859
+BPO Best Pos: 0.334920
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.544388
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.270856
+BPO Best Pos: 2.038766
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.494591
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.040194
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.754112
+BPO Best Pos: 0.000000
+BPO Best Pos: -1.460726
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.750619
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.111801
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.980169
+BPO Best Pos: 0.198935
+BPO Best Pos: 0.781897
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.207119
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.818397
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.048160
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.171589
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.640535
+BPO Best Pos: 0.630991
+BPO Best Pos: 1.348520
+BPO Best Pos: 1.421138
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.560572
+BPO Best Pos: -0.387193
+BPO Best Pos: 1.547880
+BPO Best Pos: -0.822734
+BPO Best Pos: -0.641472
+BPO Best Pos: 1.091378
+BPO Best Pos: -1.036925
+BPO Best Pos: -0.142943
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.443601
+BPO Best Pos: 1.310233
+BPO Best Pos: 0.002129
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.762264
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.823413
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.535503
+BPO Best Pos: -1.259626
+BPO Best Pos: 1.077425
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.966933
+BPO Best Pos: 2.023109
+BPO Best Pos: 0.259143
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.747499
+BPO Best Pos: -0.096989
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.599910
+BPO Best Pos: 1.340024
+BPO Best Pos: -0.310185
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.088534
+BPO Best Pos: 0.579786
+BPO Best Pos: -0.501923
+BPO Best Pos: -1.205042
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.332050
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.318494
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.045018
+BPO Best Pos: 0.368978
+BPO Best Pos: -1.121597
+BPO Best Pos: -1.006044
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 2.275666
+BPO Best Pos: 2.483394
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.656011
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.575619
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.240701
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.169160
+BPO Best Pos: -0.616007
+Curve: 0.364072
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Curve: 0.348459
+Run 9
+BPO Best Score: 0.357977
+BPO Best Pos: 2.760211
+BPO Best Pos: 2.866588
+BPO Best Pos: 0.870467
+BPO Best Pos: 1.581035
+BPO Best Pos: -0.165593
+BPO Best Pos: 0.592470
+BPO Best Pos: -0.000000
+BPO Best Pos: -0.781402
+BPO Best Pos: 0.192323
+BPO Best Pos: 2.018111
+BPO Best Pos: 5.391010
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: 1.262372
+BPO Best Pos: -0.008804
+BPO Best Pos: 0.000000
+BPO Best Pos: 2.170066
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: -4.252613
+BPO Best Pos: 0.795144
+BPO Best Pos: -1.583049
+BPO Best Pos: -1.455840
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.120533
+BPO Best Pos: 1.269793
+BPO Best Pos: 0.075595
+BPO Best Pos: 2.295614
+BPO Best Pos: 1.484154
+BPO Best Pos: -1.602758
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.884733
+BPO Best Pos: 0.701470
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 6.438415
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.017117
+BPO Best Pos: -1.526825
+BPO Best Pos: -0.182516
+BPO Best Pos: 0.494732
+BPO Best Pos: -0.609184
+BPO Best Pos: 1.000000
+BPO Best Pos: -1.442799
+BPO Best Pos: 0.364740
+BPO Best Pos: -0.010461
+BPO Best Pos: -1.186049
+BPO Best Pos: 7.075322
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.010054
+BPO Best Pos: 1.000000
+BPO Best Pos: 2.242822
+BPO Best Pos: -0.093627
+BPO Best Pos: -0.059151
+BPO Best Pos: -0.003561
+BPO Best Pos: -5.170099
+BPO Best Pos: 0.633648
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.997294
+BPO Best Pos: 5.632238
+BPO Best Pos: -6.166565
+BPO Best Pos: 1.001549
+BPO Best Pos: 1.000000
+BPO Best Pos: -7.021608
+BPO Best Pos: 1.068139
+BPO Best Pos: 2.326445
+BPO Best Pos: -0.548390
+BPO Best Pos: 0.029808
+BPO Best Pos: 0.998425
+BPO Best Pos: -3.750668
+BPO Best Pos: -4.697528
+BPO Best Pos: -0.538644
+BPO Best Pos: 1.000000
+BPO Best Pos: 5.527758
+BPO Best Pos: -0.142578
+BPO Best Pos: 0.306699
+BPO Best Pos: 0.912394
+BPO Best Pos: 1.111722
+BPO Best Pos: -0.769237
+BPO Best Pos: 0.988151
+BPO Best Pos: 0.025985
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.319714
+BPO Best Pos: 1.179594
+BPO Best Pos: -0.000000
+BPO Best Pos: 5.018481
+BPO Best Pos: 1.259994
+BPO Best Pos: 1.067219
+BPO Best Pos: 0.270793
+BPO Best Pos: 0.037213
+BPO Best Pos: 4.888365
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.444142
+BPO Best Pos: -0.689120
+BPO Best Pos: 0.942726
+BPO Best Pos: 1.012425
+BPO Best Pos: 0.956837
+BPO Best Pos: 6.292489
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.359031
+BPO Best Pos: 0.278345
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.076805
+BPO Best Pos: -0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: -2.949455
+BPO Best Pos: 0.905706
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.140594
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.513206
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: -1.174521
+BPO Best Pos: -0.014527
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.422533
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.033206
+BPO Best Pos: -0.296003
+BPO Best Pos: 0.704257
+BPO Best Pos: -0.000000
+BPO Best Pos: -0.001827
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.154211
+BPO Best Pos: -0.399555
+BPO Best Pos: 1.369714
+BPO Best Pos: 2.633607
+BPO Best Pos: 0.188061
+BPO Best Pos: -2.336482
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.917644
+BPO Best Pos: -0.903903
+BPO Best Pos: -0.200150
+BPO Best Pos: -2.387592
+BPO Best Pos: 1.258505
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.337285
+BPO Best Pos: -0.346471
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.132396
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.095003
+BPO Best Pos: 0.030254
+BPO Best Pos: 1.012571
+BPO Best Pos: 0.995181
+BPO Best Pos: -0.000000
+BPO Best Pos: 1.953170
+BPO Best Pos: -5.143609
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.013587
+BPO Best Pos: -1.955525
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.831230
+BPO Best Pos: 1.000000
+BPO Best Pos: -4.008006
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.753486
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.297933
+BPO Best Pos: 0.982492
+BPO Best Pos: 2.158854
+BPO Best Pos: 0.002738
+BPO Best Pos: 8.190947
+BPO Best Pos: 1.757379
+BPO Best Pos: 2.970238
+BPO Best Pos: 2.439240
+BPO Best Pos: 2.502067
+BPO Best Pos: 1.609994
+BPO Best Pos: 4.713200
+BPO Best Pos: -0.276059
+BPO Best Pos: -3.218248
+BPO Best Pos: -5.948327
+BPO Best Pos: -0.987704
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.295718
+BPO Best Pos: 0.131170
+BPO Best Pos: 0.838121
+BPO Best Pos: 0.378682
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.204961
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.688998
+BPO Best Pos: -0.018657
+BPO Best Pos: -0.000000
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.428673
+BPO Best Pos: 0.195435
+BPO Best Pos: 0.991793
+BPO Best Pos: 2.554411
+BPO Best Pos: -0.400782
+BPO Best Pos: -2.021634
+BPO Best Pos: 0.985379
+BPO Best Pos: 0.000000
+BPO Best Pos: -0.014499
+BPO Best Pos: -0.035049
+BPO Best Pos: 0.138600
+BPO Best Pos: -0.406611
+BPO Best Pos: 1.878335
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.548597
+BPO Best Pos: 1.585157
+BPO Best Pos: -0.495505
+BPO Best Pos: -0.122392
+BPO Best Pos: 0.934868
+BPO Best Pos: -0.264342
+BPO Best Pos: 1.006902
+BPO Best Pos: 0.850615
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.074896
+BPO Best Pos: 1.814744
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.735136
+BPO Best Pos: 0.694594
+BPO Best Pos: 0.147137
+BPO Best Pos: 10.097160
+BPO Best Pos: 0.992969
+BPO Best Pos: 2.186988
+BPO Best Pos: 0.625429
+BPO Best Pos: 1.162320
+BPO Best Pos: 0.980361
+BPO Best Pos: 1.000000
+BPO Best Pos: 2.713371
+BPO Best Pos: 0.225060
+BPO Best Pos: -0.000000
+BPO Best Pos: 0.536611
+BPO Best Pos: -0.149856
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.057242
+BPO Best Pos: 1.175681
+BPO Best Pos: -12.958755
+BPO Best Pos: 1.106189
+BPO Best Pos: 1.731453
+BPO Best Pos: 0.666556
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.786759
+BPO Best Pos: -4.986911
+BPO Best Pos: -1.389041
+BPO Best Pos: -8.170012
+BPO Best Pos: 0.117375
+BPO Best Pos: 0.747958
+BPO Best Pos: -1.269654
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.297893
+BPO Best Pos: 0.890619
+BPO Best Pos: 0.481815
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.929875
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.614162
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.300186
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.032997
+BPO Best Pos: -0.003533
+BPO Best Pos: 0.512858
+BPO Best Pos: 1.106037
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.157347
+BPO Best Pos: -0.070970
+BPO Best Pos: 0.568942
+BPO Best Pos: 1.549978
+BPO Best Pos: 2.489625
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.360572
+Curve: 0.357977
+Curve: 0.357977
+Curve: 0.357977
+Curve: 0.357977
+Curve: 0.357977
+Curve: 0.357977
+Curve: 0.357977
+Curve: 0.357977
+Curve: 0.357977
+Curve: 0.357977
+Curve: 0.357977
+Curve: 0.357977
+Curve: 0.357977
+Curve: 0.357977
+Curve: 0.357977
+Curve: 0.357977
+Curve: 0.357977
+Curve: 0.357977
+Curve: 0.357977
+Curve: 0.357977
+Curve: 0.357977
+Run 10
+BPO Best Score: 0.342004
+BPO Best Pos: -0.706029
+BPO Best Pos: 1.278309
+BPO Best Pos: 0.103812
+BPO Best Pos: -0.314512
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.120611
+BPO Best Pos: 1.491987
+BPO Best Pos: 0.449311
+BPO Best Pos: 2.409912
+BPO Best Pos: -0.166847
+BPO Best Pos: 1.045378
+BPO Best Pos: -1.753231
+BPO Best Pos: 0.727005
+BPO Best Pos: 0.114900
+BPO Best Pos: 1.000000
+BPO Best Pos: 2.077317
+BPO Best Pos: 0.061800
+BPO Best Pos: 0.885167
+BPO Best Pos: 1.047565
+BPO Best Pos: 1.121128
+BPO Best Pos: 0.819051
+BPO Best Pos: 1.580007
+BPO Best Pos: 0.091401
+BPO Best Pos: 1.398105
+BPO Best Pos: 1.900433
+BPO Best Pos: -0.887583
+BPO Best Pos: 0.738558
+BPO Best Pos: -0.697652
+BPO Best Pos: 1.210741
+BPO Best Pos: 1.150540
+BPO Best Pos: 0.501810
+BPO Best Pos: -0.690501
+BPO Best Pos: 0.158223
+BPO Best Pos: -1.122869
+BPO Best Pos: -0.711501
+BPO Best Pos: 0.100314
+BPO Best Pos: 0.751698
+BPO Best Pos: 0.035662
+BPO Best Pos: 1.668186
+BPO Best Pos: 2.344374
+BPO Best Pos: 0.910593
+BPO Best Pos: -2.073712
+BPO Best Pos: -1.106907
+BPO Best Pos: 0.966472
+BPO Best Pos: 3.167661
+BPO Best Pos: -0.455423
+BPO Best Pos: 0.744852
+BPO Best Pos: 1.816811
+BPO Best Pos: -0.164278
+BPO Best Pos: -0.056766
+BPO Best Pos: 0.031579
+BPO Best Pos: 1.125387
+BPO Best Pos: 0.826278
+BPO Best Pos: 0.297434
+BPO Best Pos: 0.286516
+BPO Best Pos: -0.003104
+BPO Best Pos: 0.023694
+BPO Best Pos: 0.152599
+BPO Best Pos: 0.540701
+BPO Best Pos: -1.662040
+BPO Best Pos: -1.532141
+BPO Best Pos: 0.663163
+BPO Best Pos: 1.780060
+BPO Best Pos: 0.001283
+BPO Best Pos: 1.513468
+BPO Best Pos: 0.973483
+BPO Best Pos: 1.336921
+BPO Best Pos: 1.637396
+BPO Best Pos: 0.984660
+BPO Best Pos: -0.330217
+BPO Best Pos: -0.464142
+BPO Best Pos: -0.271815
+BPO Best Pos: 1.594517
+BPO Best Pos: 1.097784
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.026722
+BPO Best Pos: 0.100583
+BPO Best Pos: -0.534754
+BPO Best Pos: 1.574741
+BPO Best Pos: 0.300149
+BPO Best Pos: 2.115571
+BPO Best Pos: 1.252301
+BPO Best Pos: 0.777986
+BPO Best Pos: -0.006645
+BPO Best Pos: 1.141238
+BPO Best Pos: 1.686587
+BPO Best Pos: 0.679361
+BPO Best Pos: -1.786518
+BPO Best Pos: 2.626937
+BPO Best Pos: -0.500766
+BPO Best Pos: -0.883891
+BPO Best Pos: 0.152838
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.828189
+BPO Best Pos: 0.930859
+BPO Best Pos: -1.276481
+BPO Best Pos: -0.386740
+BPO Best Pos: -0.863201
+BPO Best Pos: 1.061577
+BPO Best Pos: 0.569829
+BPO Best Pos: -0.428231
+BPO Best Pos: 0.953352
+BPO Best Pos: 0.669787
+BPO Best Pos: 0.921615
+BPO Best Pos: 0.988951
+BPO Best Pos: 0.962106
+BPO Best Pos: -0.024250
+BPO Best Pos: 0.245214
+BPO Best Pos: 0.234738
+BPO Best Pos: 1.396414
+BPO Best Pos: 0.723740
+BPO Best Pos: 0.677734
+BPO Best Pos: 2.637508
+BPO Best Pos: 0.958080
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.859495
+BPO Best Pos: -0.545787
+BPO Best Pos: -0.069242
+BPO Best Pos: 0.981803
+BPO Best Pos: -1.440864
+BPO Best Pos: 0.445921
+BPO Best Pos: 0.512428
+BPO Best Pos: -0.617588
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.689086
+BPO Best Pos: -0.349408
+BPO Best Pos: 1.055393
+BPO Best Pos: -0.750914
+BPO Best Pos: 1.798930
+BPO Best Pos: 1.944492
+BPO Best Pos: -0.186110
+BPO Best Pos: 1.001229
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.412948
+BPO Best Pos: 0.727761
+BPO Best Pos: -0.865316
+BPO Best Pos: -0.737017
+BPO Best Pos: 0.000000
+BPO Best Pos: 1.001634
+BPO Best Pos: 0.789892
+BPO Best Pos: 0.585309
+BPO Best Pos: 1.495512
+BPO Best Pos: 0.969010
+BPO Best Pos: 0.323770
+BPO Best Pos: 0.000000
+BPO Best Pos: 2.185799
+BPO Best Pos: -1.892753
+BPO Best Pos: -2.155167
+BPO Best Pos: 1.743043
+BPO Best Pos: 0.409886
+BPO Best Pos: 1.662354
+BPO Best Pos: 0.338025
+BPO Best Pos: -0.669592
+BPO Best Pos: 0.048267
+BPO Best Pos: -0.269639
+BPO Best Pos: -0.595440
+BPO Best Pos: 1.092888
+BPO Best Pos: 1.000000
+BPO Best Pos: 0.968636
+BPO Best Pos: 2.165404
+BPO Best Pos: 0.585794
+BPO Best Pos: 0.565138
+BPO Best Pos: 0.259770
+BPO Best Pos: 0.227103
+BPO Best Pos: 2.255090
+BPO Best Pos: 0.001981
+BPO Best Pos: 1.241586
+BPO Best Pos: 0.440502
+BPO Best Pos: 1.126632
+BPO Best Pos: -0.161366
+BPO Best Pos: -1.646514
+BPO Best Pos: -0.496494
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.217677
+BPO Best Pos: 3.600864
+BPO Best Pos: 2.789734
+BPO Best Pos: 0.911982
+BPO Best Pos: -0.945396
+BPO Best Pos: 0.505920
+BPO Best Pos: -0.248297
+BPO Best Pos: -0.992682
+BPO Best Pos: 1.414017
+BPO Best Pos: 1.892546
+BPO Best Pos: 2.051512
+BPO Best Pos: -0.847997
+BPO Best Pos: -1.159071
+BPO Best Pos: 2.396925
+BPO Best Pos: -0.222948
+BPO Best Pos: 1.342205
+BPO Best Pos: 0.009676
+BPO Best Pos: 0.664456
+BPO Best Pos: -1.244181
+BPO Best Pos: 1.222376
+BPO Best Pos: -0.048337
+BPO Best Pos: -1.310690
+BPO Best Pos: 1.802057
+BPO Best Pos: 0.362106
+BPO Best Pos: 0.921821
+BPO Best Pos: -0.096132
+BPO Best Pos: 0.038318
+BPO Best Pos: 0.634727
+BPO Best Pos: 1.036298
+BPO Best Pos: 0.492449
+BPO Best Pos: 0.494051
+BPO Best Pos: 0.885784
+BPO Best Pos: -0.598313
+BPO Best Pos: 1.397654
+BPO Best Pos: 0.309550
+BPO Best Pos: 0.662598
+BPO Best Pos: 1.972769
+BPO Best Pos: 0.867950
+BPO Best Pos: -0.579054
+BPO Best Pos: 1.831185
+BPO Best Pos: -0.698064
+BPO Best Pos: 1.874680
+BPO Best Pos: -0.116477
+BPO Best Pos: -0.449719
+BPO Best Pos: 2.345038
+BPO Best Pos: 0.000000
+BPO Best Pos: 0.475171
+BPO Best Pos: 1.000000
+BPO Best Pos: -0.132629
+BPO Best Pos: -0.893545
+BPO Best Pos: 2.598342
+BPO Best Pos: 0.000000
+BPO Best Pos: -1.553358
+BPO Best Pos: -1.021523
+BPO Best Pos: 0.734740
+BPO Best Pos: 0.000000
+BPO Best Pos: 2.173811
+BPO Best Pos: 0.314297
+BPO Best Pos: 2.226240
+BPO Best Pos: 0.513505
+BPO Best Pos: 1.022605
+BPO Best Pos: -0.808159
+BPO Best Pos: 1.322294
+BPO Best Pos: 0.025901
+BPO Best Pos: -1.379592
+BPO Best Pos: 0.257807
+BPO Best Pos: 0.429526
+BPO Best Pos: 0.978353
+BPO Best Pos: -0.058114
+BPO Best Pos: 0.224432
+BPO Best Pos: 1.797149
+BPO Best Pos: 0.330572
+BPO Best Pos: -0.407994
+BPO Best Pos: -0.520448
+BPO Best Pos: 1.342933
+BPO Best Pos: -0.133235
+BPO Best Pos: 2.497366
+BPO Best Pos: 0.275984
+BPO Best Pos: 1.110302
+BPO Best Pos: 1.421247
+BPO Best Pos: 1.000000
+BPO Best Pos: 1.349695
+BPO Best Pos: 0.845621
+BPO Best Pos: -0.810468
+BPO Best Pos: 0.991397
+BPO Best Pos: -0.661389
+BPO Best Pos: 0.123562
+BPO Best Pos: 0.420558
+BPO Best Pos: -1.023188
+BPO Best Pos: -0.004049
+BPO Best Pos: 0.296156
+BPO Best Pos: 1.369074
+BPO Best Pos: -0.446975
+BPO Best Pos: 0.745480
+BPO Best Pos: -1.164170
+BPO Best Pos: 0.862989
+BPO Best Pos: -0.286339
+BPO Best Pos: -0.749181
+BPO Best Pos: 0.566737
+BPO Best Pos: 1.449084
+BPO Best Pos: 0.000000
+BPO Best Pos: -1.274815
+BPO Best Pos: -1.211485
+BPO Best Pos: 0.550826
+BPO Best Pos: 1.209598
+BPO Best Pos: -1.437902
+Curve: 0.351449
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004
+Curve: 0.342004

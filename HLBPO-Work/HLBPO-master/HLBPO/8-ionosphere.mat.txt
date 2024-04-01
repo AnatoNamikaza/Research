@@ -1,0 +1,1360 @@
+Run 1
+HLBPO Best Score: 0.100823
+HLBPO Best Pos: -0.007903
+HLBPO Best Pos: 2.065906
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: -0.348295
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: -0.467161
+HLBPO Best Pos: 0.000000
+HLBPO Best Pos: 0.000000
+HLBPO Best Pos: -0.760702
+HLBPO Best Pos: 0.850089
+HLBPO Best Pos: -0.697078
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: -0.211256
+HLBPO Best Pos: -0.962614
+HLBPO Best Pos: 0.000000
+HLBPO Best Pos: 2.088998
+HLBPO Best Pos: 0.638857
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: 0.187530
+HLBPO Best Pos: 1.461359
+HLBPO Best Pos: 0.383352
+HLBPO Best Pos: 1.882797
+HLBPO Best Pos: 0.335150
+HLBPO Best Pos: 1.216032
+HLBPO Best Pos: 0.945315
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: -0.651920
+HLBPO Best Pos: 1.999077
+HLBPO Best Pos: 0.741543
+HLBPO Best Pos: 1.473888
+HLBPO Best Pos: -0.033265
+HLBPO Best Pos: -0.800111
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Curve: 0.100823
+Run 2
+HLBPO Best Score: 0.105304
+HLBPO Best Pos: 2.827041
+HLBPO Best Pos: 0.961355
+HLBPO Best Pos: 1.175445
+HLBPO Best Pos: 1.517718
+HLBPO Best Pos: -0.051560
+HLBPO Best Pos: -0.217985
+HLBPO Best Pos: 1.431772
+HLBPO Best Pos: 0.000000
+HLBPO Best Pos: 0.000000
+HLBPO Best Pos: -0.078437
+HLBPO Best Pos: 1.022853
+HLBPO Best Pos: 1.696533
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: -0.068392
+HLBPO Best Pos: -1.178680
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: 0.000000
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: 1.179161
+HLBPO Best Pos: 1.731374
+HLBPO Best Pos: -0.290217
+HLBPO Best Pos: -0.053195
+HLBPO Best Pos: -0.092552
+HLBPO Best Pos: -0.543989
+HLBPO Best Pos: -0.139881
+HLBPO Best Pos: -0.791514
+HLBPO Best Pos: -2.043205
+HLBPO Best Pos: -0.763851
+HLBPO Best Pos: 0.299993
+HLBPO Best Pos: -0.279086
+HLBPO Best Pos: -0.070308
+HLBPO Best Pos: -0.963942
+HLBPO Best Pos: 1.482393
+HLBPO Best Pos: 1.246311
+Curve: 0.105382
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Curve: 0.105304
+Run 3
+HLBPO Best Score: 0.085288
+HLBPO Best Pos: -2.800757
+HLBPO Best Pos: 3.536202
+HLBPO Best Pos: -0.555299
+HLBPO Best Pos: 0.000000
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: 1.386537
+HLBPO Best Pos: 0.000000
+HLBPO Best Pos: 4.369448
+HLBPO Best Pos: -0.092801
+HLBPO Best Pos: 0.998247
+HLBPO Best Pos: -0.718645
+HLBPO Best Pos: -0.931317
+HLBPO Best Pos: -0.006907
+HLBPO Best Pos: 1.398834
+HLBPO Best Pos: -0.474572
+HLBPO Best Pos: 0.795683
+HLBPO Best Pos: 2.180691
+HLBPO Best Pos: 2.159680
+HLBPO Best Pos: 0.670499
+HLBPO Best Pos: -0.026113
+HLBPO Best Pos: 0.000000
+HLBPO Best Pos: 1.037577
+HLBPO Best Pos: -0.890725
+HLBPO Best Pos: -0.041756
+HLBPO Best Pos: 0.068570
+HLBPO Best Pos: -0.592631
+HLBPO Best Pos: -0.202324
+HLBPO Best Pos: 0.137626
+HLBPO Best Pos: -0.293509
+HLBPO Best Pos: 0.021948
+HLBPO Best Pos: 1.048871
+HLBPO Best Pos: 0.498875
+HLBPO Best Pos: 4.684124
+Curve: 0.096897
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Run 4
+HLBPO Best Score: 0.085288
+HLBPO Best Pos: 1.228360
+HLBPO Best Pos: -0.438422
+HLBPO Best Pos: -0.493398
+HLBPO Best Pos: 1.164152
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: 2.573907
+HLBPO Best Pos: -0.125097
+HLBPO Best Pos: -0.158015
+HLBPO Best Pos: 0.407513
+HLBPO Best Pos: 1.665759
+HLBPO Best Pos: -0.050512
+HLBPO Best Pos: 1.739557
+HLBPO Best Pos: -1.294965
+HLBPO Best Pos: 2.181138
+HLBPO Best Pos: -0.084300
+HLBPO Best Pos: -1.020832
+HLBPO Best Pos: 1.877794
+HLBPO Best Pos: 1.055122
+HLBPO Best Pos: 1.812932
+HLBPO Best Pos: -2.220377
+HLBPO Best Pos: 1.298772
+HLBPO Best Pos: 0.122675
+HLBPO Best Pos: 1.939216
+HLBPO Best Pos: -0.954917
+HLBPO Best Pos: 1.276840
+HLBPO Best Pos: 0.506336
+HLBPO Best Pos: 0.249166
+HLBPO Best Pos: 0.556788
+HLBPO Best Pos: -0.876228
+HLBPO Best Pos: 1.333791
+HLBPO Best Pos: 1.198471
+HLBPO Best Pos: 0.550432
+HLBPO Best Pos: 1.385271
+Curve: 0.091239
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Curve: 0.085288
+Run 5
+HLBPO Best Score: 0.085876
+HLBPO Best Pos: 1.069318
+HLBPO Best Pos: -0.957151
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: 1.923591
+HLBPO Best Pos: 0.920795
+HLBPO Best Pos: -0.446497
+HLBPO Best Pos: 0.728934
+HLBPO Best Pos: -0.055515
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: 2.246232
+HLBPO Best Pos: 0.827868
+HLBPO Best Pos: 0.000000
+HLBPO Best Pos: -0.204599
+HLBPO Best Pos: 0.000000
+HLBPO Best Pos: 0.000000
+HLBPO Best Pos: 1.006883
+HLBPO Best Pos: -0.640201
+HLBPO Best Pos: 0.632004
+HLBPO Best Pos: 0.234619
+HLBPO Best Pos: 2.546782
+HLBPO Best Pos: 1.786671
+HLBPO Best Pos: 0.295624
+HLBPO Best Pos: 0.000000
+HLBPO Best Pos: 0.869930
+HLBPO Best Pos: 0.956150
+HLBPO Best Pos: 1.646619
+HLBPO Best Pos: 1.588976
+HLBPO Best Pos: 1.282599
+HLBPO Best Pos: 1.999061
+HLBPO Best Pos: -0.582750
+HLBPO Best Pos: -0.351049
+HLBPO Best Pos: 0.000000
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Curve: 0.085876
+Run 6
+HLBPO Best Score: 0.083263
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: -0.843251
+HLBPO Best Pos: 0.859202
+HLBPO Best Pos: 0.000000
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: 0.066740
+HLBPO Best Pos: 1.827664
+HLBPO Best Pos: 1.980634
+HLBPO Best Pos: 1.148787
+HLBPO Best Pos: 0.000000
+HLBPO Best Pos: -0.839758
+HLBPO Best Pos: 1.844905
+HLBPO Best Pos: 0.959896
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: 2.058602
+HLBPO Best Pos: 0.000000
+HLBPO Best Pos: -0.257813
+HLBPO Best Pos: 1.295816
+HLBPO Best Pos: -0.394244
+HLBPO Best Pos: -0.025000
+HLBPO Best Pos: 1.981183
+HLBPO Best Pos: -0.066202
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: -0.045623
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: -0.252426
+HLBPO Best Pos: 2.080134
+HLBPO Best Pos: 0.162816
+HLBPO Best Pos: 0.350073
+HLBPO Best Pos: -0.223341
+HLBPO Best Pos: 1.444597
+HLBPO Best Pos: -0.091644
+HLBPO Best Pos: 0.000560
+HLBPO Best Pos: 0.000000
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Curve: 0.083263
+Run 7
+HLBPO Best Score: 0.088999
+HLBPO Best Pos: -0.456276
+HLBPO Best Pos: 2.202800
+HLBPO Best Pos: 1.712542
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: 0.091851
+HLBPO Best Pos: 0.000000
+HLBPO Best Pos: 0.000000
+HLBPO Best Pos: 1.259745
+HLBPO Best Pos: -0.378352
+HLBPO Best Pos: -0.378660
+HLBPO Best Pos: -0.274971
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: 0.047312
+HLBPO Best Pos: 1.201075
+HLBPO Best Pos: 1.693316
+HLBPO Best Pos: 0.383495
+HLBPO Best Pos: -0.434323
+HLBPO Best Pos: 0.000000
+HLBPO Best Pos: -0.727259
+HLBPO Best Pos: -0.464744
+HLBPO Best Pos: 0.268485
+HLBPO Best Pos: -0.961976
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: -0.741221
+HLBPO Best Pos: -1.509377
+HLBPO Best Pos: 0.000000
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: 0.098881
+HLBPO Best Pos: 1.801582
+HLBPO Best Pos: 0.586109
+HLBPO Best Pos: -0.362405
+HLBPO Best Pos: 1.883051
+HLBPO Best Pos: 0.700344
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Curve: 0.088999
+Run 8
+HLBPO Best Score: 0.091318
+HLBPO Best Pos: -0.649651
+HLBPO Best Pos: 0.931233
+HLBPO Best Pos: -3.198675
+HLBPO Best Pos: 0.270137
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: -0.960448
+HLBPO Best Pos: 1.865628
+HLBPO Best Pos: 1.056996
+HLBPO Best Pos: 2.348432
+HLBPO Best Pos: 0.982520
+HLBPO Best Pos: 0.413835
+HLBPO Best Pos: 0.036271
+HLBPO Best Pos: 2.013348
+HLBPO Best Pos: -0.234608
+HLBPO Best Pos: 0.104529
+HLBPO Best Pos: 0.842466
+HLBPO Best Pos: 0.000000
+HLBPO Best Pos: 0.273406
+HLBPO Best Pos: 0.496729
+HLBPO Best Pos: 0.983308
+HLBPO Best Pos: -0.006279
+HLBPO Best Pos: 0.808625
+HLBPO Best Pos: -1.803995
+HLBPO Best Pos: 0.471402
+HLBPO Best Pos: -1.744184
+HLBPO Best Pos: 0.367619
+HLBPO Best Pos: 0.882365
+HLBPO Best Pos: 1.925961
+HLBPO Best Pos: -0.779752
+HLBPO Best Pos: 1.343025
+HLBPO Best Pos: 0.000000
+HLBPO Best Pos: 0.815861
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: 1.000000
+Curve: 0.103063
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Curve: 0.091318
+Run 9
+HLBPO Best Score: 0.091239
+HLBPO Best Pos: -0.276202
+HLBPO Best Pos: 1.354757
+HLBPO Best Pos: 1.613272
+HLBPO Best Pos: -0.755390
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: -0.370873
+HLBPO Best Pos: 0.909691
+HLBPO Best Pos: -0.522232
+HLBPO Best Pos: 2.511494
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: -0.328745
+HLBPO Best Pos: 1.364725
+HLBPO Best Pos: 0.571651
+HLBPO Best Pos: 0.774897
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: 0.457377
+HLBPO Best Pos: -1.336026
+HLBPO Best Pos: 0.000000
+HLBPO Best Pos: -0.184464
+HLBPO Best Pos: 0.000000
+HLBPO Best Pos: 0.788328
+HLBPO Best Pos: -0.822257
+HLBPO Best Pos: 0.000000
+HLBPO Best Pos: -0.004125
+HLBPO Best Pos: -0.110551
+HLBPO Best Pos: 0.634806
+HLBPO Best Pos: -0.339332
+HLBPO Best Pos: 0.061805
+HLBPO Best Pos: -0.692945
+HLBPO Best Pos: 0.969633
+HLBPO Best Pos: 1.174203
+HLBPO Best Pos: 1.156603
+HLBPO Best Pos: 0.217974
+HLBPO Best Pos: 1.906559
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Curve: 0.091239
+Run 10
+HLBPO Best Score: 0.079925
+HLBPO Best Pos: 0.444322
+HLBPO Best Pos: 0.417693
+HLBPO Best Pos: 2.601854
+HLBPO Best Pos: 1.035248
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: 0.331308
+HLBPO Best Pos: 1.413347
+HLBPO Best Pos: 2.200552
+HLBPO Best Pos: 0.083256
+HLBPO Best Pos: 1.000000
+HLBPO Best Pos: 1.642050
+HLBPO Best Pos: 1.482662
+HLBPO Best Pos: -0.529275
+HLBPO Best Pos: 1.381704
+HLBPO Best Pos: -0.830738
+HLBPO Best Pos: 0.334272
+HLBPO Best Pos: 1.192420
+HLBPO Best Pos: 0.940594
+HLBPO Best Pos: 0.272747
+HLBPO Best Pos: -0.427918
+HLBPO Best Pos: 0.012664
+HLBPO Best Pos: 0.812735
+HLBPO Best Pos: 1.175581
+HLBPO Best Pos: 1.001101
+HLBPO Best Pos: 0.000000
+HLBPO Best Pos: 0.864888
+HLBPO Best Pos: 1.667945
+HLBPO Best Pos: 2.002841
+HLBPO Best Pos: 0.628181
+HLBPO Best Pos: 0.000000
+HLBPO Best Pos: 0.832315
+HLBPO Best Pos: -0.870530
+HLBPO Best Pos: 1.550162
+Curve: 0.097112
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925
+Curve: 0.079925

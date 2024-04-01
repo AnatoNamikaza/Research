@@ -1,0 +1,244 @@
+%-------------------------------------------------------------------------%
+%  Hyper Learning Binary Dragonfly Algorithm source code demo version     %
+%-------------------------------------------------------------------------%
+
+
+%---Inputs-----------------------------------------------------------------
+% feat:   features
+% label:  labelling
+% N:      Number of dragonflies
+% T:      Maximum number of iterations
+% pl:     Probability of personal learning
+% gl:     Probability of global learning
+% kfold:  Number of K-fold cross-validation
+% k:      Number of k in KNN
+%---Outputs----------------------------------------------------------------
+% sFeat:  Selected features
+% Sf:     Selected feature index
+% Nf:     Number of selected features
+% curve:  Convergence curve
+%--------------------------------------------------------------------------
+
+%Test
+clc; clear; close;
+
+datasets = { '20-TOX-171.mat', '1-Arrhythmia.mat', '2-colon.mat', '3-dermatology.mat', '4-glass.mat', '5-hepatitis.mat', ...
+            '6-horse-colic.mat', '7-ilpd.mat', '8-ionosphere.mat', '9-leukemia.mat', '10-libras-movement.mat', ...
+            '11-lsvt.mat', '12-lung_discrete.mat', '13-lympho.mat', '14-musk1.mat', '15-primary-tumor.mat', ...
+            '16-SCADI.mat', '17-seeds.mat', '18-soybean.mat', '19-spect-heart.mat', '21-zoo.mat'};
+
+% Define the path to the folder containing the datasets
+folder_path = 'datasets/';
+
+% Set parameters
+kfold = 10;k = 5;N = 10;T = 100;
+%%%%%%%%%%%%%%%%%%%%%%Adjustable parameters%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+parties = 8;        %Number of political parties
+lambda = 1.0;       %Max limit of party switching rate
+
+%fEvals = 30000;     %Number of function evaluations
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+areas = parties;
+members = parties;                
+populationSize=parties * members; % Number of search agents
+Max_iteration = 100; %round(fEvals / (parties * areas + areas));
+plr = [  0.3,    0.4,    0.5,    0.6,    0.7,    0.8,    0.9]; % Personal learning rate
+glr = [  0.65,   0.7,    0.75,   0.8,    0.85,   0.9,    0.95]; % Global learning rate
+runs = 10;
+
+pl = plr(2);
+gl = glr(2);
+%change plr & glr, combination in HLBDA pg 7
+
+execution_times = zeros(1, length(datasets));
+
+% Preallocate a cell array to store the loaded data
+loadedData = cell(size(datasets));
+O.k = k;O.kfold = kfold;O.N = N;O.T = T;O.pp = pl;O.pg = gl;
+    
+parfor i = 1:(length(datasets)-0)
+    
+    % Measure execution time
+    tic;
+    
+    % Load data
+    dataset_name = strcat(folder_path, datasets{i});
+
+    % Load data from the current file into a temporary variable
+    temp = load(dataset_name);
+    
+    % Assign the loaded data to an element in the cell array
+    loadedData{i} = temp;
+    
+    %load(dataset_name);
+    
+    % Determine variable names for features and labels
+    if exist('feat', 'var') && exist('label', 'var')
+        X = feat;
+        Y = label;
+    elseif exist('X', 'var') && exist('Y', 'var')
+        % Assuming X is features and Y is labels
+    elseif exist('Hepatitis', 'var') && exist('Class', 'var')
+        X = Hepatitis;
+        Y = Class;
+    elseif exist('X', 'var') && exist('y', 'var')
+        % Assuming X is features and y is labels
+        Y = y;
+    else
+        error('Could not determine variable names for features and labels.');
+    end
+    
+    % Xi are enteries while Xj are features
+    % Yi are enteries while Yj are outcomes / labels
+
+    % Split data into train & validate using cross-validation
+    CV = cvpartition(Y, 'KFold', kfold, 'Stratify', true);
+    O.Model = CV; 
+    
+    % Perform feature selection
+    [sFeat,Sf,Nf,curve] = jHLBDA(X, Y, O); 
+         
+    % Accuracy 
+    %Acc = jKNN(sFeat,Y,CV,O); 
+
+    % Calling algorithm
+    B_Best_score_T = zeros(1,runs);
+    B_Curves_T = zeros(runs,Max_iteration);
+
+    HLB_Best_score_T = zeros(1,runs);
+    HLB_Curves_T = zeros(runs,Max_iteration);
+
+    for run=1:runs
+        rng('shuffle');
+        [B_Best_score_0,B_Best_pos,B_PO_cg_curve] =             BPO(populationSize,areas,parties,lambda,Max_iteration,X,Y,O);
+%         clc; 
+        B_Best_score_T(1,run) = B_Best_score_0;
+        B_Curves_T (runs,:) = B_PO_cg_curve;
+
+%         [HLB_Best_score_0,HLB_Best_pos,HLB_PO_cg_curve] =       HLBPO(populationSize,parties,areas,lambda,Max_iteration,pl,gl,X,Y,O);
+%         HLB_Best_score_T(1,run) = HLB_Best_score_0;
+        
+        %Best_score_0
+    end
+
+    % Find the row with the lowest values
+    [min_values, min_row_index] = min(B_Curves_T);
+    
+    % Get the row with the lowest values
+    lowest_values_B_PO_cg_curve = B_Curves_T(min_row_index, :);
+
+    %Acc2 = jKNN(B_Best_pos,Y,CV,O);
+    execution_time = toc; % Stop measuring time
+    
+    execution_times(i) = execution_time;
+
+    % Specify the folder path
+    folder_path1 = 'img/';
+
+    % Check if the folder exists, if not, create it
+    if ~exist(folder_path1, 'dir')
+        mkdir(folder_path1);
+    end
+    
+    % Concatenate folder path, dataset name, and the desired suffix
+    filename = strcat(folder_path1, datasets{i}, '.png');
+
+    % Plot the convergence curve and save with custom filename
+    % colors = {
+    %     'r', [1, 0, 0];         % Red
+    %     'g', [0, 1, 0];         % Green
+    %     'b', [0, 0, 1];         % Blue
+    %     'c', [0, 1, 1];         % Cyan
+    %     'm', [1, 0, 1];         % Magenta
+    %     'y', [1, 1, 0];         % Yellow
+    %     'k', [0, 0, 0];         % Black
+    %     'w', [1, 1, 1];         % White
+    %     'lightblue', [0.68, 0.85, 0.9];    % Light Blue
+    %     'lightgreen', [0.56, 0.93, 0.56];  % Light Green
+    %     'orange', [1, 0.65, 0];            % Orange
+    %     'purple', [0.63, 0.13, 0.94];      % Purple
+    %     'pink', [1, 0.75, 0.8];            % Pink
+    %     'brown', [0.64, 0.16, 0.16];       % Brown
+    % };
+    
+    % Define colors for each curve
+    % colors = {'r', 'g', 'b'};
+    colors = {'b', 'g', 'r', 'c', 'm', 'y', 'k', ...
+          [0.5, 0.5, 0.5], [0.75, 0.25, 0], [0, 0.75, 0.25], ...
+          [0.25, 0, 0.75], [0.75, 0.75, 0], [0, 0.75, 0.75], ...
+          [0.75, 0, 0.75], [0.25, 0.75, 0]};
+
+    % Plot the convergence curves and save as a single image
+    plotConvergenceCurve( ...
+        {curve, B_PO_cg_curve, B_Curves_T}, ...
+        filename, ...
+        {'HLBDA', 'BPO', 'HLBPO'}, ...
+        colors);
+
+
+
+    %Finding statistics
+%     B_Best_score_Best = min(B_Best_score_T);
+%     HLB_Best_score_Best = min(HLB_Best_score_T);
+%     B_Best_score_Worst = max(B_Best_score_T);
+%     HLB_Best_score_Worst = max(HLB_Best_score_T);
+%     B_Best_score_Median = median(B_Best_score_T,2);
+%     HLB_Best_score_Median = median(HLB_Best_score_T,2);
+%     B_Best_Score_Mean = mean(B_Best_score_T,2);
+%     HLB_Best_Score_Mean = mean(HLB_Best_score_T,2);
+%     B_Best_Score_std = std(B_Best_score_T);
+%     HLB_Best_Score_std = std(HLB_Best_score_T);
+
+
+    %acc table & feature selection ratio & classification acc & box plot
+
+
+    %Printing results
+%     display(['Best, Worst, Median, Mean, and Std. are as: ', num2str(B_Best_score_Best),'  ', num2str(B_Best_score_Worst),'  ', num2str(B_Best_score_Median),'  ', num2str(B_Best_Score_Mean),'  ', num2str(B_Best_Score_std)]);
+%     display(['Best, Worst, Median, Mean, and Std. are as: ', num2str(HLB_Best_score_Best),'  ', num2str(HLB_Best_score_Worst),'  ', num2str(HLB_Best_score_Median),'  ', num2str(HLB_Best_Score_Mean),'  ', num2str(HLB_Best_Score_std)]);
+end
+
+% Display overall execution times
+total_execution_time = sum(execution_times);
+disp(['Total execution time for all functions: ', num2str(total_execution_time), ' seconds']);
+
+function plotConvergenceCurve(curves, filename, labels, colors)
+    % Define an array of markers
+    %markers = {'o', '+', '>'};
+    
+    % Create a figure without displaying it
+    fig = figure('Visible', 'off');
+
+    % Plot all convergence curves with labels, colors, and markers
+    hold on;
+    for i = 1:length(curves)
+        % Use markers sequentially
+        %marker = markers{mod(i - 1, length(markers)) + 1};
+        plot(1:length(curves{i}), curves{i}, 'LineWidth', 0.25, 'DisplayName', labels{i}, 'Color', colors{i}); %, 'Marker', marker, 'MarkerSize', 3);
+    end
+    hold off;
+
+    % Customize the plot
+    title('Convergence Curves');
+    xlabel('Iteration');
+    ylabel('Fitness');
+    grid on;
+    legend('show');
+    
+    % Delete the existing file if it exists
+    if nargin > 1 && exist(filename, 'file') == 2
+        delete(filename);
+    end
+    
+    % Save the plot with custom filename
+    if nargin > 1
+        saveas(fig, filename);
+    end
+    
+    % Close the figure
+    close(fig);
+end
+
+%Total execution time for all functions: 12573.8449 seconds
+

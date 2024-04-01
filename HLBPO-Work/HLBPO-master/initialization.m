@@ -1,5 +1,19 @@
 function Positions = initialization(parties,areas,dim)
-    Positions = rand(parties,areas, dim) > 0.5;
+    
+    Positions = zeros(parties,areas,dim);
+
+    for i = 1:parties
+        for j = 1:areas
+            for k = 1:dim
+                decider_value = rand();
+                if decider_value < 0.5
+                    Positions(i,j,k) = 0;
+                else
+                    Positions(i,j,k) = 1;
+                end
+            end
+        end
+    end
 end
 
 % It generates a matrix of size SearchAgents_no-by-dim 

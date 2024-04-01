@@ -16,41 +16,42 @@
 %   Knowledge-Based Systems, 2020, 
 %   DOI: https://doi.org/10.1016/j.knosys.2020.105709
 %____________________________________________________________________________________
+% 
+function [Leader_score,Leader_pos,Convergence_curve]=BPO(Positions,parties,areas,lambda_max,Max_iter,X,Y,O)
 
-function [Leader_score,Leader_pos,Convergence_curve]=HLBPO(SearchAgents_no,areas,parties,lambda,Max_iter,pl,gl,dim,fobj)
+dim = size(X, 2); % Dimensionality of the problem (number of features)
+
 % initialize position vector and score for the leader
-Leader_pos=zeros(1,dim);
-Leader_score=inf; %change this to -inf for maximization problems
+% Store the position and fitness of global best solution
+% This would be the leader with the minimum fitness
+Leader_pos = zeros(1, dim);
+Leader_score = inf;  %change this to -inf for maximization problems
+
+Convergence_curve=zeros(1,Max_iter);
 
 %Initialize the positions of search agents
-Positions=initialization(SearchAgents_no,dim,gl,pl);
-%auxPositions = Positions;
-prevPositions = Positions;
-Convergence_curve=zeros(1,Max_iter);
-fitness=zeros(SearchAgents_no, 1);
+Positions = initialization(parties,areas,dim);
 
 %Running phases for initializations
 Election;   %Run election phase
-%auxFitness = fitness;
-prevFitness = fitness;
-GovernmentFormation;
 
-t=0;% Loop counter
-while t<Max_iter
-    %prevFitness = auxFitness;
-    %prevPositions = auxPositions;
-    %auxFitness = fitness;
-    %auxPositions = Positions;
+t = 1; % Loop counter
+lambda = lambda_max;
 
-    ElectionCampaign;    
+while t <= Max_iter
+    prevPositions = Positions;
+    prevFitness = Fitness;
+
+    ElectionCampaign;
+    
     PartySwitching;
     Election;
-    GovernmentFormation;
     Parliamentarism;
-    hper learning strat
-   
-    t=t+1;
-    Convergence_curve(t)=Leader_score;
-    [t Leader_score];
-end
 
+    lambda = lambda - lambda_max/Max_iter;
+    Convergence_curve(t)=Leader_score;
+    %printing best score
+    fprintf('\nIteration %d Best (BPO)= %f',t - 1,Convergence_curve(t));
+
+    t=t+1;    
+end

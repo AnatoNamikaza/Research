@@ -67,10 +67,10 @@ while t <= T
   X=Xnew;
   curve(t)=fitF;
   m = curve(t);
-  %fprintf('\nIteration %d Best (HLBDA)= %f',t,curve(t))
+  fprintf('\nIteration %d Best (HLBDA)= %f',t,curve(t))
   t=t+1;
 end
-%fprintf('\n Best (HLBDA)= %f',m)
+fprintf('\n Best (HLBDA)= %f',m)
 Pos=1:D; Sf=Pos(Xf==1); sFeat=feat(:,Sf); Nf=length(Sf); 
 end
 
