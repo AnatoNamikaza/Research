@@ -1,4 +1,7 @@
+import os
 import logging
+import threading
+import time
 
 import numpy as np
 from numpy.random import rand
@@ -38,12 +41,12 @@ opts = {
 #####################################################################################################
 
 
-def initializations():
+def initializations(dim):
     # return rand(parties, areas, dim)
     return np.random.randint(2, size=(parties, areas, dim))
 
 
-def jfitness_function(position_vector):
+def jfitness_function(position_vector, dim, X, Y):
     alpha = 0.99
     beta = 0.01
     max_feat = dim
@@ -82,12 +85,12 @@ def jwrapper_knn(s_feat, label):
     return 1 - np.mean(acc)
 
 
-def election(positions, leader_pos, leader_score):
+def election(positions, leader_pos, leader_score, dim, X, Y):
     fitness = np.zeros((parties, areas))
 
     for p in range(parties):
         for a in range(areas):
-            fitness[p, a] = jfitness_function(positions[p, a])
+            fitness[p, a] = jfitness_function(positions[p, a], dim, X, Y)
 
             if fitness[p, a] < leader_score:
                 leader_score = fitness[p, a]
@@ -130,6 +133,7 @@ def election_compaign(
     prev_fitness,
     party_leaders,
     constituency_winners,
+    dim
 ):
     for which_method in range(2):
         for p in range(parties):
@@ -235,6 +239,9 @@ def parliamentarism(
     constituency_winners,
     constituency_winners_fitness,
     constituency_winners_party,
+    dim,
+    X,
+    Y
 ):
     for a in range(areas):
         new_area_winner = constituency_winners[a].copy()
@@ -253,7 +260,7 @@ def parliamentarism(
             r1 = rand()
             new_area_winner[d] = int(tf >= r1)
 
-        new_area_winner_fitness = jfitness_function(new_area_winner)
+        new_area_winner_fitness = jfitness_function(new_area_winner, dim, X, Y)
 
         if new_area_winner_fitness < constituency_winners_fitness[a]:
             positions[p, a] = new_area_winner.copy()
@@ -269,6 +276,7 @@ def hlpus(
     positions,
     party_leaders,
     leader_pos,
+    dim
 ):
     for p in range(parties):
         for a in range(areas):
@@ -288,7 +296,7 @@ def hlpus(
                     positions[p, a, d] = leader_pos[d]
 
 
-def transfer_values(positions):
+def transfer_values(positions, dim):
     for p in range(parties):
         for a in range(areas):
             for d in range(dim):
@@ -296,14 +304,11 @@ def transfer_values(positions):
                 r1 = rand()
                 positions[p, a, d] = int(tf >= r1)
 
-
-def hlbpo():
+def hlbpo(dataset_name, dim, T, lambda_max, X, Y):
     leader_pos = np.zeros(dim)
     leader_score = float("inf")
-
     convergence_curve = np.zeros(T)
-
-    positions = initializations()
+    positions = initializations(dim)
 
     aux_positions = positions.copy()
     prev_positions = positions.copy()
@@ -317,7 +322,7 @@ def hlbpo():
         constituency_winners,
         constituency_winners_fitness,
         constituency_winners_party,
-    ) = election(positions, leader_pos, leader_score)
+    ) = election(positions, leader_pos, leader_score, dim, X, Y)
 
     aux_fitness = fitness.copy()
     prev_fitness = fitness.copy()
@@ -325,80 +330,161 @@ def hlbpo():
     t = 0
     lamda = lambda_max
 
-    while t < T:
-        prev_fitness = aux_fitness.copy()
-        prev_positions = aux_positions.copy()
+    # Open a text file to record iteration results
+    with open(f"results_record/{dataset_name}_iterations.txt", "w") as file:
+        while t < T:
+            prev_fitness = aux_fitness.copy()
+            prev_positions = aux_positions.copy()
 
-        aux_fitness = fitness.copy()
-        aux_positions = positions.copy()
+            aux_fitness = fitness.copy()
+            aux_positions = positions.copy()
 
-        election_compaign(
-            positions,
-            prev_positions,
-            fitness,
-            prev_fitness,
-            party_leaders,
-            constituency_winners,
-        )
+            election_compaign(
+                positions,
+                prev_positions,
+                fitness,
+                prev_fitness,
+                party_leaders,
+                constituency_winners,
+                dim
+            )
 
-        # if t % 25 == 0 and t != 0:
-        #     logging.info("transfering values %s", t)
-        transfer_values(positions)
+            # if t % 25 == 0 and t != 0:
+            #     logging.info("transfering values %s", t)
+            transfer_values(positions, dim)
 
-        party_switching(
-            positions,
-            fitness,
-            t,
-            lamda,
-        )
+            party_switching(
+                positions,
+                fitness,
+                t,
+                lamda,
+            )
 
-        (
-            fitness,
-            leader_score,
-            leader_pos,
-            party_leaders,
-            party_leaders_fitness,
-            constituency_winners,
-            constituency_winners_fitness,
-            constituency_winners_party,
-        ) = election(positions, leader_pos, leader_score)
+            (
+                fitness,
+                leader_score,
+                leader_pos,
+                party_leaders,
+                party_leaders_fitness,
+                constituency_winners,
+                constituency_winners_fitness,
+                constituency_winners_party,
+            ) = election(positions, leader_pos, leader_score, dim, X, Y)
 
-        parliamentarism(
-            positions,
-            fitness,
-            constituency_winners,
-            constituency_winners_fitness,
-            constituency_winners_party,
-        )
+            parliamentarism(
+                positions,
+                fitness,
+                constituency_winners,
+                constituency_winners_fitness,
+                constituency_winners_party,
+                dim,
+                X,
+                Y
+            )
 
-        hlpus(positions, party_leaders, leader_pos)
+            hlpus(positions, party_leaders, leader_pos, dim)
 
-        transfer_values(positions)
+            transfer_values(positions, dim)
 
-        lamda = lamda - lambda_max / T
-        convergence_curve[t] = leader_score
-        t += 1
-        # logging.info("fitnesses\n %s", fitness)
-        logging.info(f"iteration: {t}, error: {leader_score} pos: {leader_pos}")
+            lamda = lamda - lambda_max / T
+            convergence_curve[t] = leader_score
+            t += 1
+
+            # Log and write to file
+            log_message = f"iteration: {t}, error: {leader_score} pos: {leader_pos}"
+            logging.info(log_message)
+            file.write(log_message + "\n")
+            file.flush()  # Ensure the data is written to the file
     
+    # Plot and save the convergence curve
     plt.plot(convergence_curve)
-    plt.show()
-
+    plt.xlabel("Iteration")
+    plt.ylabel("Leader Score")
+    plt.title(f"Convergence Curve for {dataset_name}")
+    plt.savefig(f"result_plots/{dataset_name}_convergence.png")
+    plt.close()
+    
 #####################################################################################################
 #####################################################################################################
 ##############                          hlbpo algorithm Above                          ##############
 #####################################################################################################
 #####################################################################################################
+# Ensure the required directories exist
+os.makedirs("results_record", exist_ok=True)
+os.makedirs("result_plots", exist_ok=True)
 
 # List of datasets
-datasets = [
-    '1-Arrhythmia.mat', '2-colon.mat', '3-dermatology.mat', '4-glass.mat', '5-hepatitis.mat',
-    '6-horse-colic.mat', '7-ilpd.mat', '8-ionosphere.mat', '9-leukemia.mat', '10-libras-movement.mat',
-    '11-lsvt.mat', '12-lung_discrete.mat', '13-lympho.mat', '14-musk1.mat', '15-primary-tumor.mat',
-    '16-SCADI.mat', '17-seeds.mat', '18-soybean.mat', '19-spect-heart.mat', '20-TOX-171.mat', '21-zoo.mat'
-]
+# datasets = [
+#     'arrhythmia',
+#     'colon',
+#     'dermatology',    #
+#     'glass',
+#     'hepatitis',      #
+#     'horse_colic',
+#     'ilpd',
+#     'ionosphere',
+#     'leukemia',
+#     'libras_movement',
+#     'lsvt',
+#     'lung_discrete',
+#     'lympho',         #
+#     'musk_1',
+#     'primary_tumor',  #
+#     'scadi',
+#     'seeds',
+#     'soybean',        #
+#     'spect_heart',
+#     'tox_171',
+#     'zoo'
+# ]
+
+datasets = ['tox_171.mat']
+
+
+#with threading
+
+# def process_dataset(dataset):
+#     data = loadmat(f"datasets/{dataset}")
+#     logging.debug(data.keys())
+
+#     # Check for the presence of keys to use for X and Y
+#     if 'X' in data and 'Y' in data:
+#         X = data["X"]
+#         Y = data["Y"].ravel()
+#     elif 'feat' in data and 'label' in data:
+#         X = data["feat"]
+#         Y = data["label"].ravel()
+#     else:
+#         logging.error(f"Unknown keys in dataset {dataset}")
+#         return
+
+#     logging.debug("%s, %s", X.shape, Y.shape)
+
+#     dim = X.shape[1]
+
+#     dataset_name = os.path.splitext(dataset)[0]  # Get the dataset name without extension
+#     hlbpo(dataset_name, dim, T, lambda_max, X, Y)
+
+# if __name__ == "__main__":
+#     start_time = time.time()
+
+#     threads = []
+#     for dataset in datasets:
+#         thread = threading.Thread(target=process_dataset, args=(dataset,))
+#         thread.start()
+#         threads.append(thread)
+
+#     for thread in threads:
+#         thread.join()
+
+#     end_time = time.time()
+#     total_execution_time = end_time - start_time
+#     logging.info(f"Total execution time: {total_execution_time} seconds")
+
+#without threading
 
 if __name__ == "__main__":
+
     for dataset in datasets:
         data = loadmat(f"datasets/{dataset}")
         logging.debug(data.keys())
@@ -418,4 +504,5 @@ if __name__ == "__main__":
 
         dim = X.shape[1]
 
-        hlbpo()
+        dataset_name = os.path.splitext(dataset)[0]  # Get the dataset name without extension
+        hlbpo(dataset_name, dim, T, lambda_max, X, Y)
