@@ -32,18 +32,25 @@ Convergence_curve=zeros(1,Max_iter);
 %Initialize the positions of search agents
 Positions = initialization(parties,areas,dim);
 
+auxPositions = Positions;
+prevPositions = Positions;
+
 %Running phases for initializations
 Election;   %Run election phase
+
+auxFitness = Fitness;
+prevFitness = Fitness;
 
 t = 1; % Loop counter
 lambda = lambda_max;
 
 while t <= Max_iter
-    prevPositions = Positions;
-    prevFitness = Fitness;
+    prevFitness = auxFitness;
+    prevPositions = auxPositions;
+    auxFitness = Fitness;
+    auxPositions = Positions;
 
     ElectionCampaign;
-    
     PartySwitching;
     Election;
     Parliamentarism;
