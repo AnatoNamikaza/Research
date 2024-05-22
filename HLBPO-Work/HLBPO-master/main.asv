@@ -53,7 +53,9 @@ clc; clear; close;
 %              '11-lsvt.mat', '12-lung_discrete.mat', '13-lympho.mat', '14-musk1.mat', '15-primary-tumor.mat', ...
 %              '16-SCADI.mat', '17-seeds.mat', '18-soybean.mat', '19-spect-heart.mat', '20-TOX-171.mat', '21-zoo.mat'};
 
-datasets = { '17-seeds.mat', '21-zoo.mat', '15-primary-tumor.mat', '4-glass.mat'};
+ datasets = { '9-leukemia.mat', '10-libras-movement.mat', ...
+                '19-spect-heart.mat', '20-TOX-171.mat', '21-zoo.mat'};
+%'18-soybean.mat',
 
 % Define the path to the folder containing the datasets
 folder_path = 'datasets/';
@@ -75,8 +77,8 @@ plr = [  0.3,    0.4,    0.5,    0.6,    0.7,    0.8,    0.9]; % Personal learni
 glr = [  0.65,   0.7,    0.75,   0.8,    0.85,   0.9,    0.95]; % Global learning rate
 runs = 10;
 
-pl = plr(2);
-gl = glr(2);
+pl = plr(6);
+gl = glr(6);
 %change plr & glr, combination in HLBDA pg 7
 
 execution_times = zeros(1, length(datasets));
@@ -159,16 +161,15 @@ parfor i = 1:(length(datasets))
 %     disp(curve)
 %     disp(Acc)
 
-% Create file path with the dataset name and folder name
-file_path = fullfile('BPO & HLBPO/', strcat(datasets{i}, '.txt'));
+    % Create file path with the dataset name and folder name
+    file_path = fullfile('BPO & HLBPO 2/', strcat(datasets{i}, '.txt'));
+    
+    % Open the text file for appending
+    fileID = fopen(file_path, 'a');
 
-% Open the text file for appending
-fileID = fopen(file_path, 'a');
-
-HLD_curve_str = ['[', sprintf('%.6f, ', curve(1:end-1)), sprintf('%.6f]', curve(end))];
-        fprintf(fileID, 'Curve: %s\n', HLD_curve_str);
-        
-
+    HLD_curve_str = ['[', sprintf('%.6f, ', curve(1:end-1)), sprintf('%.6f]', curve(end))];
+    fprintf(fileID, 'Curve: %s\n', HLD_curve_str);
+    fclose(fileID);
 
     B_Best_score_T = zeros(1,runs);
     B_Curves_T = zeros(runs,Max_iteration);
@@ -189,7 +190,7 @@ HLD_curve_str = ['[', sprintf('%.6f, ', curve(1:end-1)), sprintf('%.6f]', curve(
         %Acc2 = jKNN(HLB_Best_pos,Y,CV,O(i));
 
         % Create file path with the dataset name and folder name
-        file_path = fullfile('BPO & HLBPO/', strcat(datasets{i}, '.txt'));
+        file_path = fullfile('BPO & HLBPO 2/', strcat(datasets{i}, '.txt'));
         
         % Open the text file for appending
         fileID = fopen(file_path, 'a');
@@ -276,13 +277,13 @@ HLD_curve_str = ['[', sprintf('%.6f, ', curve(1:end-1)), sprintf('%.6f]', curve(
     % };
     
     % Define colors for each curve
-     colors = {'r', 'm', 'b', 'g', 'c', 'y', 'k', [0.64, 0.16, 0.16], 'p', 'o'};
+    % colors = {'r', 'm', 'b', 'g', 'c', 'y', 'k', [0.64, 0.16, 0.16], 'p', 'o'};
+     colors = {'#FF0000', '#00FF00', '#0000FF', '#00FFFF', '#FF00FF', '#FFFF00', '#000000', '#77AC30', '#FFA500', '#800080'};
+     [min_value1, min_index1] = min(B_Curves_T(:, end));   
+     [min_value2, min_index2] = min(HLB_Curves_T(:, end));
 
-     [min_value1, min_index1] = min(B_Best_score_T);
-     [min_value2, min_index2] = min(HLB_Best_score_T);
-
-     B_PO_cg_curve = B_Curves_T(min_index1)
-     HLB_PO_cg_curve = HLB_Curves_T(min_index2)
+     B_PO_cg_curve = B_Curves_T(min_index1,:)
+     HLB_PO_cg_curve = HLB_Curves_T(min_index2,:)
     % Plot the convergence curves and save as a single image
      plotConvergenceCurve( ...
          {curve, B_PO_cg_curve, HLB_PO_cg_curve}, ...
@@ -291,13 +292,13 @@ HLD_curve_str = ['[', sprintf('%.6f, ', curve(1:end-1)), sprintf('%.6f]', curve(
          colors);
   
      plotConvergenceCurve( ...
-         {B_Curves_T(1), B_Curves_T(2), B_Curves_T(3), B_Curves_T(4), B_Curves_T(5), B_Curves_T(6), B_Curves_T(7), B_Curves_T(8), B_Curves_T(9), B_Curves_T(10)}, ...
+         {B_Curves_T(1,:), B_Curves_T(2,:), B_Curves_T(3,:), B_Curves_T(4,:), B_Curves_T(5,:), B_Curves_T(6,:), B_Curves_T(7,:), B_Curves_T(8,:), B_Curves_T(9,:), B_Curves_T(10,:)}, ...
          filename2, ...
          {'1', '2', '3', '4', '5', '6', '7', '8', '9', '10'}, ...
          colors);
  
      plotConvergenceCurve( ...
-         {HLB_Curves_T(1), HLB_Curves_T(2),  HLB_Curves_T(3), HLB_Curves_T(4), HLB_Curves_T(5), HLB_Curves_T(6), HLB_Curves_T(7), HLB_Curves_T(8), HLB_Curves_T(9), HLB_Curves_T(10)}, ...
+         {HLB_Curves_T(1,:), HLB_Curves_T(2,:),  HLB_Curves_T(3,:), HLB_Curves_T(4,:), HLB_Curves_T(5,:), HLB_Curves_T(6,:), HLB_Curves_T(7,:), HLB_Curves_T(8,:), HLB_Curves_T(9,:), HLB_Curves_T(10,:)}, ...
          filename3, ...
          {'1', '2', '3', '4', '5', '6', '7', '8', '9', '10'}, ...
          colors);
