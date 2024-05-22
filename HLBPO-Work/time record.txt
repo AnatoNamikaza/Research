@@ -17,3 +17,12 @@ parallel, only HLBDA 21: 2900 sec 10-12 min
 
 
 Tables, Statistical analysis
+
+01-Apr-2024 10:48:22 - 9:11
+10.5 hrs for 16 datasets
+
+separate:
+'15-primary-tumor.mat', '17-seeds.mat', '19-spect-heart.mat', '20-TOX-171.mat'
+3.5 hrs for 4 datasets
+
+'18-soybean.mat' error of NaN values
