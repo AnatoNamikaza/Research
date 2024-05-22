@@ -53,10 +53,8 @@ clc; clear; close;
 %              '11-lsvt.mat', '12-lung_discrete.mat', '13-lympho.mat', '14-musk1.mat', '15-primary-tumor.mat', ...
 %              '16-SCADI.mat', '17-seeds.mat', '18-soybean.mat', '19-spect-heart.mat', '20-TOX-171.mat', '21-zoo.mat'};
 
-datasets = { '1-Arrhythmia.mat', '2-colon.mat', '3-dermatology.mat', '4-glass.mat', '5-hepatitis.mat', ...
-              '6-horse-colic.mat', '7-ilpd.mat', '8-ionosphere.mat', '9-leukemia.mat', '10-libras-movement.mat', ...
-              '11-lsvt.mat', '12-lung_discrete.mat', '13-lympho.mat', '14-musk1.mat', '15-primary-tumor.mat', ...
-              '16-SCADI.mat', '17-seeds.mat', '18-soybean.mat', '19-spect-heart.mat', '20-TOX-171.mat'};
+ datasets = { '9-leukemia.mat', '10-libras-movement.mat', '19-spect-heart.mat'};
+%'18-soybean.mat',
 
 % Define the path to the folder containing the datasets
 folder_path = 'datasets/';
@@ -78,8 +76,8 @@ plr = [  0.3,    0.4,    0.5,    0.6,    0.7,    0.8,    0.9]; % Personal learni
 glr = [  0.65,   0.7,    0.75,   0.8,    0.85,   0.9,    0.95]; % Global learning rate
 runs = 10;
 
-pl = plr(2);
-gl = glr(2);
+pl = plr(7);
+gl = glr(7);
 %change plr & glr, combination in HLBDA pg 7
 
 execution_times = zeros(1, length(datasets));
@@ -90,7 +88,7 @@ O = repmat(struct('k', k, 'kfold', kfold, 'N', N, 'T', T, 'pp', pl, 'pg', gl), 1
 % Get the current date and time
 startTime = datetime('now');
 
-parfor i = 1:(length(datasets))
+for i = 1:(length(datasets))
     
     % Measure execution time
     tic;
@@ -132,7 +130,7 @@ parfor i = 1:(length(datasets))
     O(i).Model = CV;     
     
      % Perform feature selection
-     [sFeat,Sf,Nf,curve] = jHLBDA(X, Y, O(i)); 
+     %[sFeat,Sf,Nf,curve] = jHLBDA(X, Y, O(i)); 
 %        
 %     % Accuracy 
 %     Acc = jKNN(sFeat,Y,CV,O(i)); 
@@ -163,14 +161,14 @@ parfor i = 1:(length(datasets))
 %     disp(Acc)
 
     % Create file path with the dataset name and folder name
-    file_path = fullfile('BPO & HLBPO/', strcat(datasets{i}, '.txt'));
+    file_path = fullfile('BPO & HLBPO 3/', strcat(datasets{i}, '.txt'));
     
     % Open the text file for appending
     fileID = fopen(file_path, 'a');
 
-    HLD_curve_str = ['[', sprintf('%.6f, ', curve(1:end-1)), sprintf('%.6f]', curve(end))];
-    fprintf(fileID, 'Curve: %s\n', HLD_curve_str);
-    fclose(fileID);
+%     HLD_curve_str = ['[', sprintf('%.6f, ', curve(1:end-1)), sprintf('%.6f]', curve(end))];
+%     fprintf(fileID, 'Curve: %s\n', HLD_curve_str);
+%     fclose(fileID);
 
     B_Best_score_T = zeros(1,runs);
     B_Curves_T = zeros(runs,Max_iteration);
@@ -185,13 +183,13 @@ parfor i = 1:(length(datasets))
         B_Curves_T (runs,:) = B_PO_cg_curve;
         %Acc1 = jKNN(B_Best_pos,Y,CV,O(i));
 
-        [HLB_Best_score_0,HLB_Best_pos,HLB_PO_cg_curve] = HLBPO(populationSize,parties,areas,lambda,Max_iteration,pl,gl,X,Y,O(i));
-        HLB_Best_score_T(1,run) = HLB_Best_score_0;
-        HLB_Curves_T (runs,:) = HLB_PO_cg_curve;
+%         [HLB_Best_score_0,HLB_Best_pos,HLB_PO_cg_curve] = HLBPO(populationSize,parties,areas,lambda,Max_iteration,pl,gl,X,Y,O(i));
+%         HLB_Best_score_T(1,run) = HLB_Best_score_0;
+%         HLB_Curves_T (runs,:) = HLB_PO_cg_curve;
         %Acc2 = jKNN(HLB_Best_pos,Y,CV,O(i));
 
         % Create file path with the dataset name and folder name
-        file_path = fullfile('BPO & HLBPO/', strcat(datasets{i}, '.txt'));
+        file_path = fullfile('BPO & HLBPO 3/', strcat(datasets{i}, '.txt'));
         
         % Open the text file for appending
         fileID = fopen(file_path, 'a');
@@ -280,8 +278,8 @@ parfor i = 1:(length(datasets))
     % Define colors for each curve
     % colors = {'r', 'm', 'b', 'g', 'c', 'y', 'k', [0.64, 0.16, 0.16], 'p', 'o'};
      colors = {'#FF0000', '#00FF00', '#0000FF', '#00FFFF', '#FF00FF', '#FFFF00', '#000000', '#77AC30', '#FFA500', '#800080'};
-     [min_value1, min_index1] = min(B_Best_score_T);
-     [min_value2, min_index2] = min(HLB_Best_score_T);
+     [min_value1, min_index1] = min(B_Curves_T(:, end));   
+     [min_value2, min_index2] = min(HLB_Curves_T(:, end));
 
      B_PO_cg_curve = B_Curves_T(min_index1,:)
      HLB_PO_cg_curve = HLB_Curves_T(min_index2,:)
