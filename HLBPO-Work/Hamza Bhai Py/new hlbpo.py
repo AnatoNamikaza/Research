@@ -3,6 +3,9 @@ def warn(*args, **kwargs):
 
 
 import warnings
+import matplotlib.pyplot as plt
+import os
+
 
 warnings.warn = warn
 import logging
@@ -32,7 +35,7 @@ areas = 2
 members = parties
 population_size = parties * members
 runs = 10
-dataset = "seeds"
+dataset = "zoo"
 
 opts = {
     "k": 5,
@@ -379,6 +382,28 @@ def hlbpo(run):
         convergence_curve[t] = [run, t, leader_score]
         logging.info("run: %s, iteration: %s, error: %s", run, t, leader_score)
         t += 1
+
+
+    # Add the following lines before "return convergence_curve"
+
+    # Create the result_plots directory if it does not exist
+    os.makedirs('result_plots', exist_ok=True)
+
+    plt.figure(figsize=(10, 6))
+    for i in range(run + 1):
+        plt.plot(convergence_curve[convergence_curve[:, 0] == i, 1], 
+                convergence_curve[convergence_curve[:, 0] == i, 2], label=f'Run {i + 1}')
+
+    plt.xlabel('Iteration')
+    plt.ylabel('Leader Score (Error)')
+    plt.title(f'Convergence Curves for {dataset}')
+    plt.legend()
+    plt.grid(True)
+
+    # Save the plot
+    plot_path = f'result_plots/{dataset}_convergence.png'
+    plt.savefig(plot_path)
+    plt.close()
 
     return convergence_curve
     # plt.plot(convergence_curve)
