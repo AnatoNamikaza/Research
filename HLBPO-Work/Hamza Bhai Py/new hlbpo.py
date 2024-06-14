@@ -1,41 +1,36 @@
 def warn(*args, **kwargs):
     pass
 
-
+import time  # Import the time module for timing execution
 import warnings
-import matplotlib.pyplot as plt
-import os
-
-
-warnings.warn = warn
 import logging
-
 import numpy as np
 from numpy.random import rand
 from pandas import DataFrame
 from scipy.io import loadmat
+from sklearn.impute import KNNImputer
 from sklearn.metrics import classification_report
 from sklearn.model_selection import StratifiedKFold
 from sklearn.neighbors import KNeighborsClassifier
+import matplotlib.pyplot as plt
+import os
 
-# logging.basicConfig(level=logging.DEBUG)
+warnings.warn = warn
 logging.basicConfig(level=logging.INFO)
 
+# Parameters
 kfold = 10
 k = 5
 N = 10
 T = 100
-# T = 5
 parties = 3
 lambda_max = 1.0
 pl = 0.4
 gl = 0.7
 areas = 2
-# areas = parties
 members = parties
 population_size = parties * members
 runs = 10
-dataset = "zoo"
 
 opts = {
     "k": 5,
@@ -43,21 +38,8 @@ opts = {
     "clf": KNeighborsClassifier(n_neighbors=k),
 }
 
-runs_df = DataFrame(columns=("run", "iteration", "error"))
-data = loadmat(f"./datasets/{dataset}.mat")
-logging.debug(data.keys())
-
-# X = data["X"]
-# Y = data["Y"].ravel()
-
-X = data["feat"]
-Y = data["label"].ravel()
-
-logging.debug("%s, %s", X.shape, Y.shape)
-# exit(0)
-
-dim = X.shape[1]
-
+# Use KNNImputer to fill missing values
+imputer = KNNImputer(n_neighbors=5)
 
 def initializations():
     # return rand(parties, areas, dim)
@@ -295,15 +277,12 @@ def transfer_values(positions):
             for d in range(dim):
                 positions[p, a, d] = transfer_function(positions[p, a, d])
 
-
 def hlbpo(run):
     leader_pos = np.zeros(dim)
     leader_score = float("inf")
-
     convergence_curve = np.zeros((T + 1, 3))
 
     positions = initializations()
-
     aux_positions = positions.copy()
     prev_positions = positions.copy()
 
@@ -343,10 +322,6 @@ def hlbpo(run):
             constituency_winners,
         )
 
-        # if t % 25 == 0 and t != 0:
-        #     logging.info("transfering values %s", t)
-        # transfer_values(positions)
-
         party_switching(
             positions,
             fitness,
@@ -373,26 +348,18 @@ def hlbpo(run):
             constituency_winners_party,
         )
 
-        # logging.debug("%s", positions)
         hlpus(positions, party_leaders, leader_pos)
-
-        # transfer_values(positions)
-
         lamda = lamda - lambda_max / T
         convergence_curve[t] = [run, t, leader_score]
         logging.info("run: %s, iteration: %s, error: %s", run, t, leader_score)
         t += 1
 
+    return convergence_curve
 
-    # Add the following lines before "return convergence_curve"
-
-    # Create the result_plots directory if it does not exist
-    os.makedirs('result_plots', exist_ok=True)
-
+def plot_convergence_curves(all_convergence_curves, dataset):
     plt.figure(figsize=(10, 6))
-    for i in range(run + 1):
-        plt.plot(convergence_curve[convergence_curve[:, 0] == i, 1], 
-                convergence_curve[convergence_curve[:, 0] == i, 2], label=f'Run {i + 1}')
+    for run, convergence_curve in enumerate(all_convergence_curves):
+        plt.plot(convergence_curve[:, 1], convergence_curve[:, 2], label=f'Run {run + 1}')
 
     plt.xlabel('Iteration')
     plt.ylabel('Leader Score (Error)')
@@ -400,18 +367,67 @@ def hlbpo(run):
     plt.legend()
     plt.grid(True)
 
+    # Create the result_plots directory if it does not exist
+    os.makedirs('result_plots', exist_ok=True)
+
     # Save the plot
     plot_path = f'result_plots/{dataset}_convergence.png'
     plt.savefig(plot_path)
     plt.close()
 
-    return convergence_curve
-    # plt.plot(convergence_curve)
-
+# List of datasets
+datasets = [
+    'arrhythmia',
+    'colon',
+    'dermatology',
+    'glass',
+    'hepatitis',
+    'horse_colic',
+    'ilpd',
+    'ionosphere',
+    'leukemia',
+    'libras_movement',
+    'lsvt',
+    'lung_discrete',
+    'lympho',
+    'musk_1',
+    'primary_tumor',
+    'scadi',
+    'seeds',
+    'soybean',
+    'spect_heart',
+    'tox_171',
+    'zoo'
+]
 
 if __name__ == "__main__":
-    scores = np.array([hlbpo(run=run) for run in range(runs)])
-    np.savetxt(f"results_record/{dataset}.csv", scores.reshape(-1, 3), delimiter=",")
-    #
-    # logging.info("scores: %s %s %s", min(scores), np.mean(scores), max(scores))
-    # runs_df.to_csv(f"{dataset}.csv", index=False)
+    start_total = time.time()  # Record start time for total execution
+
+    for dataset in datasets:
+        data = loadmat(f"./datasets/{dataset}.mat")
+
+        # Adjust according to the dataset structure
+        X = data["feat"]
+        Y = data["label"].ravel()
+
+        # Apply KNN Imputer
+        X = imputer.fit_transform(X)
+
+        dim = X.shape[1]
+
+        # Initialize DataFrame to store runs results
+        runs_df = DataFrame(columns=("run", "iteration", "error"))
+
+        all_convergence_curves = [hlbpo(run=run) for run in range(runs)]
+        
+        for run, convergence_curve in enumerate(all_convergence_curves):
+            for t, error in enumerate(convergence_curve[:, 2]):
+                runs_df.loc[len(runs_df)] = [run + 1, t, error]
+
+        np.savetxt(f"results_record/{dataset}.csv", runs_df.values, delimiter=",")
+
+        plot_convergence_curves(all_convergence_curves, dataset)
+        
+    end_total = time.time()  # Record end time for total execution
+    total_time = end_total - start_total  # Calculate total execution time in seconds
+    print(f"Total execution time: {total_time:.2f} seconds")
