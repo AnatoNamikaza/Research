@@ -27,7 +27,7 @@ parties = 3
 lambda_max = 1.0
 pl = 0.4
 gl = 0.7
-areas = 2
+areas = 3
 members = parties
 population_size = parties * members
 runs = 10
@@ -375,11 +375,23 @@ def plot_convergence_curves(all_convergence_curves, dataset):
     plt.savefig(plot_path)
     plt.close()
 
+def load_dataset(data):
+    """Load dataset and handle different key names."""
+    if "feat" in data and "label" in data:
+        X = data["feat"]
+        Y = data["label"].ravel()
+    elif "X" in data and "y" in data:
+        X = data["X"]
+        Y = data["y"].ravel()
+    else:
+        raise ValueError("Dataset structure not recognized")
+    return X, Y
+
 # List of datasets
 datasets = [
-    # 'arrhythmia',
-    # 'colon',
-    # 'dermatology',
+    'arrhythmia',
+    'colon',
+    'dermatology'
     # 'glass',
     # 'hepatitis',
     # 'horse_colic',
@@ -390,14 +402,14 @@ datasets = [
     # 'lsvt',
     # 'lung_discrete',
     # 'lympho',
-    'musk_1',
-    'primary_tumor',
-    'scadi',
-    'seeds',
-    'soybean',
-    'spect_heart',
-    'tox_171',
-    'zoo'
+    # 'musk_1',
+    # 'primary_tumor',
+    # 'scadi',
+    # 'seeds',
+    # 'soybean',
+    # 'spect_heart',
+    # 'tox_171',
+    # 'zoo'
 ]
 
 if __name__ == "__main__":
@@ -406,9 +418,8 @@ if __name__ == "__main__":
     for dataset in datasets:
         data = loadmat(f"./datasets/{dataset}.mat")
 
-        # Adjust according to the dataset structure
-        X = data["feat"]
-        Y = data["label"].ravel()
+        # Load the dataset with proper keys
+        X, Y = load_dataset(data)
 
         # Apply KNN Imputer
         X = imputer.fit_transform(X)
@@ -424,7 +435,7 @@ if __name__ == "__main__":
             for t, error in enumerate(convergence_curve[:, 2]):
                 runs_df.loc[len(runs_df)] = [run + 1, t, error]
 
-        np.savetxt(f"results_record/{dataset}.csv", runs_df.values, delimiter=",")
+        np.savetxt(f"results_record/{dataset}.txt", runs_df.values, delimiter=",")
 
         plot_convergence_curves(all_convergence_curves, dataset)
         
