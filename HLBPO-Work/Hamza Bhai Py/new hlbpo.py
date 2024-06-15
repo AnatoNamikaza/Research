@@ -435,7 +435,7 @@ if __name__ == "__main__":
             for t, error in enumerate(convergence_curve[:, 2]):
                 runs_df.loc[len(runs_df)] = [run + 1, t, error]
 
-        np.savetxt(f"results_record/{dataset}.txt", runs_df.values, delimiter=",")
+        np.savetxt(f"results_record/{dataset}.csv", runs_df.values, delimiter=",")
 
         plot_convergence_curves(all_convergence_curves, dataset)
         
