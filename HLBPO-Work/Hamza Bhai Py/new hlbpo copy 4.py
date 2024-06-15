@@ -23,11 +23,11 @@ kfold = 10
 k = 5
 N = 10
 T = 100
-parties = 3
+parties = 8
 lambda_max = 1.0
 pl = 0.4
 gl = 0.7
-areas = 3
+areas = 8
 members = parties
 population_size = parties * members
 runs = 10
@@ -435,7 +435,7 @@ if __name__ == "__main__":
             for t, error in enumerate(convergence_curve[:, 2]):
                 runs_df.loc[len(runs_df)] = [run + 1, t, error]
 
-        np.savetxt(f"results_record/{dataset}.txt", runs_df.values, delimiter=",")
+        np.savetxt(f"results_record/{dataset}.csv", runs_df.values, delimiter=",")
 
         plot_convergence_curves(all_convergence_curves, dataset)
         
