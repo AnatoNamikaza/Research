@@ -389,27 +389,27 @@ def load_dataset(data):
 
 # List of datasets
 datasets = [
-    # 'arrhythmia',
-    # 'colon',
-    # 'dermatology',
-    # 'glass',
-    # 'hepatitis',
-    # 'horse_colic',
-    # 'ilpd',
-    # 'ionosphere',
-    # 'leukemia',
-    # 'libras_movement',
-    # 'lsvt',
-    # 'lung_discrete',
+    'arrhythmia',
+    'colon',
+    'dermatology',
+    'glass',
+    'hepatitis',
+    'horse_colic',
+    'ilpd',
+    'ionosphere',
+    'leukemia',
+    'libras_movement',
+    'lsvt',
+    'lung_discrete',
     'lympho',
     'musk_1',
     'primary_tumor'
-    # 'scadi',
-    # 'seeds',
-    # 'soybean',
-    # 'spect_heart',
-    # 'tox_171',
-    # 'zoo'
+    'scadi',
+    'seeds',
+    'soybean',
+    'spect_heart',
+    'tox_171',
+    'zoo'
 ]
 
 if __name__ == "__main__":

@@ -20,13 +20,13 @@
 clc, clear, close all;
 
 % Define the path to the folder containing the datasets
-folder_path = 'datasets/';
+folder_path = 'Datasets_/';
 
 % List of datasets in the folder
-datasets = { '18-soybean.mat', '1-Arrhythmia.mat', '2-colon.mat', '3-dermatology.mat', '4-glass.mat', '5-hepatitis.mat', ...
-             '6-horse-colic.mat', '7-ilpd.mat', '8-ionosphere.mat', '9-leukemia.mat', '10-libras-movement.mat', ...
-             '11-lsvt.mat', '12-lung_discrete.mat', '13-lympho.mat', '14-musk1.mat', '15-primary-tumor.mat', ...
-             '16-SCADI.mat', '17-seeds.mat', '19-spect-heart.mat', '20-TOX-171.mat', '21-zoo.mat'};
+datasets = {
+    'arrhythmia', 'colon', 'dermatology', 'glass', 'hepatitis', 'horse_colic', 'ilpd',...
+    'ionosphere', 'leukemia', 'libras_movement', 'lsvt', 'lung_discrete', 'lympho',...
+    'musk_1', 'primary_tumor', 'scadi', 'seeds', 'soybean', 'spect_heart', 'tox_171', 'zoo'};
 
 % Parameter setting
 N = 10;
@@ -62,9 +62,6 @@ for i = 1:length(datasets)
     else
         error('Could not determine variable names for features and labels.');
     end
-
-    % Apply KNN imputation to handle missing values
-    feat = knnimpute(feat); % You might need the Statistics and Machine Learning Toolbox for this
 
     % Hold-out method (20% validation set)
     ho = 0.2;
@@ -106,9 +103,10 @@ for i = 1:length(datasets)
     end
 
     % Plot the convergence curve for the best run
-    figure;
     [min_value1, min_index1] = min(Curves_T(:, end));
 
+    % Create a figure but don't display it
+    fig = figure('Visible', 'off');
     plot(1:max_Iter, Curves_T(min_index1,:));
     xlabel('Number of Iterations');
     ylabel('Fitness Value');
@@ -121,7 +119,10 @@ for i = 1:length(datasets)
         mkdir(img_folder);
     end
     img_path = fullfile(img_folder, strcat(datasets{i}, '.png'));
-    saveas(gcf, img_path);
+    saveas(fig, img_path);
+
+    % Close the figure after saving
+    close(fig);
 end
 
 % End total timing
