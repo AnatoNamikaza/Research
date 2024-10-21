@@ -41,6 +41,7 @@ Here are some images of REX in development:
 *Initial 3D model of REX showcasing its quadruped design.*
 
 ![REX Parts](images/img2.png)
+
 *Detailed view of some key components of REX.*
 
 ---
