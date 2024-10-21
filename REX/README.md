@@ -37,6 +37,7 @@ To request access to the code and implementation:
 Here are some images of REX in development:
 
 ![REX Design](images/img1.png)
+
 *Initial 3D model of REX showcasing its quadruped design.*
 
 ![REX Parts](images/img2.png)
