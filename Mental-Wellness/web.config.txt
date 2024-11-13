@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <system.webServer>
+    <handlers>
+      <!-- Define the Python handler for all model app.py files -->
+      <add name="PythonHandler" path="*" verb="*" modules="FastCgiModule" 
+           scriptProcessor="C:\path\to\python.exe|C:\path\to\wfastcgi.py" resourceType="Unspecified" />
+    </handlers>
+
+    <fastCgi>
+      <!-- Main FastCGI application, pointing to your main app.py (if this is the entry point for all models) -->
+      <application fullPath="C:\path\to\python.exe" arguments="C:\path\to\wfastcgi.py" maxInstances="4" idleTimeout="300" activityTimeout="300" requestTimeout="300">
+        <environmentVariables>
+          <add name="FLASK_APP" value="C:\path\to\frontend\app.py" />
+          <add name="FLASK_ENV" value="production" />
+        </environmentVariables>
+      </application>
+
+      <!-- FastCGI for Audio model -->
+      <application fullPath="C:\path\to\python.exe" arguments="C:\path\to\frontend\models\audio\app.py" maxInstances="4" idleTimeout="300" activityTimeout="300" requestTimeout="300">
+        <environmentVariables>
+          <add name="FLASK_APP" value="C:\path\to\frontend\models\audio\app.py" />
+          <add name="FLASK_ENV" value="production" />
+        </environmentVariables>
+      </application>
+      
+      <!-- FastCGI for Facial model -->
+      <application fullPath="C:\path\to\python.exe" arguments="C:\path\to\frontend\models\facial\app.py" maxInstances="4" idleTimeout="300" activityTimeout="300" requestTimeout="300">
+        <environmentVariables>
+          <add name="FLASK_APP" value="C:\path\to\frontend\models\facial\app.py" />
+          <add name="FLASK_ENV" value="production" />
+        </environmentVariables>
+      </application>
+      
+      <!-- FastCGI for Text model -->
+      <application fullPath="C:\path\to\python.exe" arguments="C:\path\to\frontend\models\text\app.py" maxInstances="4" idleTimeout="300" activityTimeout="300" requestTimeout="300">
+        <environmentVariables>
+          <add name="FLASK_APP" value="C:\path\to\frontend\models\text\app.py" />
+          <add name="FLASK_ENV" value="production" />
+        </environmentVariables>
+      </application>
+    </fastCgi>
+  </system.webServer>
+</configuration>

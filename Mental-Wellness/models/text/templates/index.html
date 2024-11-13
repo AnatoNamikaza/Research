@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='assets/css/style.css') }}">
+    <title>Text File Emotion Detection</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: "Inter", sans-serif;
+        }
+        .formbold-main-wrapper {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 48px;
+        }
+
+        .formbold-form-wrapper {
+            margin: 0 auto;
+            max-width: 550px;
+            width: 100%;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+        }
+
+        .formbold-textarea {
+            display: flex;
+            flex-direction: column-reverse;
+        }
+
+        .formbold-form-input {
+            width: 100%;
+            padding-bottom: 10px;
+            border: none;
+            border-bottom: 1px solid #DDE3EC;
+            background: #FFFFFF;
+            font-weight: 500;
+            font-size: 16px;
+            color: #07074D;
+            outline: none;
+            resize: none;
+        }
+
+        .formbold-input-file {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-top: 30px;
+        }
+        .formbold-input-file input[type="file"] {
+            position: absolute;
+            top: 6px;
+            left: 0;
+            z-index: -1;
+            width: 0;
+            height: 0;
+        }
+        .formbold-input-label {
+            flex: 1;
+            display: inline-block;
+            padding: 10px 15px;
+            background-color: #6A64F1;
+            color: white;
+            border-radius: 5px;
+            cursor: pointer;
+            text-align: center;
+        }
+
+        .formbold-btn-wrapper {
+            display: flex;
+            justify-content: center;
+            margin-top: 30px;
+        }
+        .formbold-btn {
+            width: 100%;
+            font-size: 16px;
+            border-radius: 5px;
+            padding: 12px 25px;
+            border: none;
+            font-weight: 500;
+            background-color: #6A64F1;
+            color: white;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="formbold-main-wrapper">
+        <div class="logo-wrapper">
+            <img src="{{ url_for('static', filename='assets/imgs/logo.png') }}" alt="Logo" class="logo">
+        </div>
+        <div class="formbold-form-wrapper">
+            <form action="/predict" method="POST" enctype="multipart/form-data">
+                <div class="formbold-textarea">
+                    <textarea rows="6" name="message" id="message" placeholder="Results will be displayed here..." class="formbold-form-input" readonly>
+                        {% if result %}
+                        Detected Emotions:
+                        {% for emotions in result %}
+                        {% for emotion, score in emotions.items() %}
+                        - {{ emotion.capitalize() }}: {{ '{:.2%}'.format(score) }}
+                        {% endfor %}
+                        {% endfor %}
+                        {% endif %}
+                    </textarea>
+                </div>
+                <div class="formbold-input-file">
+                    <label for="upload" class="formbold-input-label">
+                        <i class="fas fa-plus"></i> Attach a Text File
+                        <input type="file" name="upload" id="upload" accept=".txt">
+                    </label>
+                </div>
+                <br>
+                <button type="submit" class="formbold-btn">Detect Emotion in Text</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

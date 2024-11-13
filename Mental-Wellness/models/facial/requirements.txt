@@ -1,0 +1,17 @@
+# Download python 3.8.10
+
+# pip install -r requirements.txt
+
+#Libraries
+Flask
+numpy
+Pillow
+keras
+fer
+tensorflow
+Flask-Cors 
+onnxscript
+facenet-pytorch
+
+# Troubleshoot
+# pip install --upgrade torch torchvision onnx

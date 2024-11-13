@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../assets/css/style.css"> <!-- Corrected path -->
+    <title>Make Appointment</title>
+</head>
+<body>
+    <div class="formbold-main-wrapper">
+        <div class="formbold-form-wrapper">
+            <!-- Logo -->
+            <img src="../assets/imgs/logo.png" alt="Logo" class="formbold-img"> <!-- Corrected path -->
+
+            <h2>Book Your Appointment</h2>
+            <p>Please fill out the form to schedule an appointment.</p>
+
+            <form action="/submit-appointment" method="POST">
+                <!-- Select Service -->
+                <div class="formbold-mb-3">
+                    <label for="service" class="formbold-form-label">Select Service</label>
+                    <select id="service" name="service" class="formbold-form-input" required>
+                        <option value="facial">Facial Test</option>
+                        <option value="audio">Audio Test</option>
+                        <option value="handwriting">Handwriting Test</option>
+                        <option value="text">Text Test</option>
+                        <option value="biosignals">Biosignals Test</option>
+                    </select>
+                </div>
+
+                <!-- Select Date -->
+                <div class="formbold-mb-3">
+                    <label for="appointment-date" class="formbold-form-label">Select Date</label>
+                    <input type="date" id="appointment-date" name="appointment_date" class="formbold-form-input" required>
+                </div>
+
+                <!-- Select Time -->
+                <div class="formbold-mb-3">
+                    <label for="appointment-time" class="formbold-form-label">Select Time</label>
+                    <input type="time" id="appointment-time" name="appointment_time" class="formbold-form-input" required>
+                </div>
+
+                <!-- Additional Notes -->
+                <div class="formbold-mb-3">
+                    <label for="notes" class="formbold-form-label">Additional Notes</label>
+                    <textarea id="notes" name="notes" class="formbold-form-input" placeholder="Any special requests or details..." rows="4"></textarea>
+                </div>
+
+                <!-- Submit Button -->
+                <button class="formbold-btn" type="submit">Schedule Appointment</button>
+            </form>
+
+            <button class="formbold-btn" type="button" onclick="window.location.href='dashboard.html'">Back to Dashboard</button>
+        </div>
+    </div>
+</body>
+</html>

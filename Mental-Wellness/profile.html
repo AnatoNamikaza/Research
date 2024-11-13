@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../assets/css/style.css"> <!-- Corrected path -->
+    <title>User Profile</title>
+</head>
+<body>
+    <div class="formbold-main-wrapper">
+        <div class="formbold-form-wrapper">
+            <!-- Logo -->
+            <img src="../assets/imgs/logo.png" alt="Logo" class="formbold-img"> <!-- Corrected path -->
+
+            <h2>User Profile</h2>
+            <p>Here you can view and edit your profile information.</p>
+
+            <form action="#" method="POST">
+                <div class="formbold-mb-3">
+                    <label for="email" class="formbold-form-label">Email</label>
+                    <input type="email" name="email" id="email" class="formbold-form-input" value="user@example.com" required />
+                </div>
+
+                <div class="formbold-mb-3">
+                    <label for="phone" class="formbold-form-label">Phone Number</label>
+                    <input type="text" name="phone" id="phone" class="formbold-form-input" value="123-456-7890" required />
+                </div>
+
+                <div class="formbold-mb-3">
+                    <label for="address" class="formbold-form-label">Address</label>
+                    <input type="text" name="address" id="address" class="formbold-form-input" value="123 Main St, City, Country" required />
+                </div>
+
+                <button class="formbold-btn" type="submit">Update Profile</button>
+            </form>
+
+            <button class="formbold-btn formbold-delete-btn" type="button" onclick="confirmDelete()">Delete Account</button>
+        </div>
+    </div>
+
+    <script>
+        function confirmDelete() {
+            if (confirm("Are you sure you want to delete your account? This action cannot be undone.")) {
+                // Perform account deletion here
+                alert("Your account has been deleted.");
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../assets/css/style.css"> <!-- Corrected path -->
+    <title>Track Progress</title>
+</head>
+<body>
+    <div class="formbold-main-wrapper">
+        <div class="formbold-form-wrapper">
+            <!-- Logo -->
+            <img src="../assets/imgs/logo.png" alt="Logo" class="formbold-img"> <!-- Corrected path -->
+
+            <h2>Track Your Progress</h2>
+            <p>View how your scores change over time in the chart below.</p>
+
+            <!-- Canvas element to display the chart -->
+            <canvas id="scoreChart" width="400" height="200"></canvas>
+
+            <button class="formbold-btn" type="button" onclick="window.location.href='dashboard.html'">Back to Dashboard</button>
+        </div>
+    </div>
+
+    <!-- Include Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    
+    <script>
+        // Sample data for the chart
+        const data = {
+            labels: ['Week 1', 'Week 2', 'Week 3', 'Week 4', 'Week 5'], // Time on the X-axis
+            datasets: [{
+                label: 'Score Progress',
+                data: [65, 70, 75, 80, 85], // Scores on the Y-axis
+                fill: false,
+                borderColor: 'rgba(75, 192, 192, 1)',
+                tension: 0.1
+            }]
+        };
+
+        // Chart.js configuration
+        const config = {
+            type: 'line', // Line chart
+            data: data,
+            options: {
+                scales: {
+                    x: {
+                        title: {
+                            display: true,
+                            text: 'Time (Weeks)'
+                        }
+                    },
+                    y: {
+                        title: {
+                            display: true,
+                            text: 'Score'
+                        },
+                        min: 0,
+                        max: 100
+                    }
+                }
+            }
+        };
+
+        // Initialize the chart
+        const ctx = document.getElementById('scoreChart').getContext('2d');
+        new Chart(ctx, config);
+    </script>
+</body>
+</html>

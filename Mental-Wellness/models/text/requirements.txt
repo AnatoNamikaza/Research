@@ -1,0 +1,11 @@
+# Download python 3.8.10
+
+# pip install -r requirements.txt
+
+#Libraries
+imageio 
+pillow 
+fer 
+torch
+Flask 
+transformers

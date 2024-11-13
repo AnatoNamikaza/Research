@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../../assets/css/style.css">
+    <title>Emotion Recognition from Audio</title>
+</head>
+<body>
+    <div class="formbold-main-wrapper">
+        <div class="logo-wrapper">
+            <img src="../../assets/imgs/logo.png" alt="Logo" class="logo">
+        </div>
+        <div class="formbold-form-wrapper">
+            <h2>Emotion Recognition from Audio</h2>
+            <form action="/predict" method="POST" enctype="multipart/form-data">
+                <!-- Audio file upload section -->
+                <div class="formbold-input-file">
+                    <label for="upload" class="formbold-input-label">
+                        <i class="fas fa-plus"></i> Attach audio file
+                        <input type="file" name="file" id="upload" accept=".wav" required>
+                    </label>
+                </div>
+                <br>
+
+                <!-- Submit button -->
+                <button type="submit" class="formbold-btn">Classify Emotion</button>
+            </form>
+
+            <!-- Displaying results in a styled textarea -->
+            {% if prediction %}
+                <div class="formbold-textarea">
+                    <textarea rows="6" name="message" id="message" placeholder="Results will be displayed here..." class="formbold-form-input" readonly>
+                        {% if prediction %}
+                        Detected Emotion: {{ prediction }}
+                        {% endif %}
+                    </textarea>
+                </div>
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html>
