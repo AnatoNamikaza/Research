@@ -1,0 +1,12 @@
+# Download python 3.8.10
+
+# pip install -r requirements.txt
+
+# python -m venv venv
+# .\venv\Scripts\activate
+
+# python script.py
+
+#Libraries
+mne 
+matplotlib 
