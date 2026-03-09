@@ -1,0 +1,43 @@
+# Install Required Libraries
+# Run this first:
+
+pip install mne numpy scipy scikit-learn torch tqdm
+
+Library	Purpose
+mne	    EEG processing
+numpy	numerical operations
+scipy	signal filtering
+torch	deep learning
+tqdm	progress bars
+
+# Create a Virtual Environment
+# Run this inside your project folder:
+
+python -m venv venv
+
+This creates a folder named venv containing the isolated Python environment.
+
+# Activate the Virtual Environment
+# Linux / macOS
+source venv/bin/activate
+# Windows (CMD)
+venv\Scripts\activate
+# Windows (PowerShell)
+venv\Scripts\Activate.ps1
+
+# Install Packages
+# After activation, install from requirements file:
+pip install -r requirements.txt
+
+# Save Installed Packages
+pip freeze > requirements.txt
+
+# Deactivate Environment
+# When you're done:
+deactivate
+
+# Delete Environment (if needed)
+# Just remove the folder:
+rm -rf venv
+
+Keeps everything organized for CHB-MIT + PyTorch experiments.
